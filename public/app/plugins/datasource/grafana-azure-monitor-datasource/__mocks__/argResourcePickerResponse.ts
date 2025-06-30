@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AzureGraphResponse, RawAzureResourceGroupItem, RawAzureResourceItem } from '../types';
 
 export const createMockARGResourceContainersResponse = (): AzureGraphResponse<RawAzureResourceGroupItem[]> => ({

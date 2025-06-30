@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export interface FlotPosition {
   pageX: number;
   pageY: number;

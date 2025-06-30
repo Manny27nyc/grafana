@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Do not change, this code is generated from Golang structs */
 
 import { FieldConfig } from '@grafana/data';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import angular, { ILocationService } from 'angular';
 import { each } from 'lodash';
 

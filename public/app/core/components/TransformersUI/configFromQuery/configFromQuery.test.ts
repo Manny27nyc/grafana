@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame, FieldType, ReducerID } from '@grafana/data';
 import { FieldConfigHandlerKey } from '../fieldToConfigMapping/fieldToConfigMapping';
 import { extractConfigFromQuery, ConfigFromQueryTransformOptions } from './configFromQuery';

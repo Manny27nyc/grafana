@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDuration as duration, toUtc, dateTime } from '../datetime/moment_wrapper';
 
 import { toFixed, toFixedScaled, FormattedValue, ValueFormatter } from './valueFormats';

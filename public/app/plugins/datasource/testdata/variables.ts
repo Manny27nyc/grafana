@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StandardVariableQuery, StandardVariableSupport } from '@grafana/data';
 
 import { TestDataDataSource } from './datasource';

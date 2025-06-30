@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CSVHeaderStyle, readCSV, toCSV } from './csv';
 import { getDataFrameRow, toDataFrameDTO } from '../dataframe/processDataFrame';
 

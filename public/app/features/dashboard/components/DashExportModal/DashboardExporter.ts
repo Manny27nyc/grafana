@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { defaults, each, sortBy } from 'lodash';
 
 import config from 'app/core/config';

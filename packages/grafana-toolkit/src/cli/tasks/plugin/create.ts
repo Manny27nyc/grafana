@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import chalk from 'chalk';
 import commandExists from 'command-exists';
 import { promises as fs, readFileSync, existsSync, unlinkSync } from 'fs';

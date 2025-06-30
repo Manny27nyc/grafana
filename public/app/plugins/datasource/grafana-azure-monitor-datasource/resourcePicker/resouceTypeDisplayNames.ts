@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const RESOURCE_TYPE_NAMES: Record<string, string> = {
   'microsoft.analysisservices/servers': 'Analysis Services',
   'microsoft.synapse/workspaces/bigdatapools': 'Apache Spark pools',

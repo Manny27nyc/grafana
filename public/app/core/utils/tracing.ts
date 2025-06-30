@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Get non overlapping duration of the ranges as they can overlap or have gaps.
  */

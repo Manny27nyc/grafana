@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { restore, versions } from './__mocks__/dashboardHistoryMocks';
 import { HistorySrv } from './HistorySrv';
 import { DashboardModel } from '../../state/DashboardModel';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnyAction } from 'redux';
 import { DataSourceSrv, getDataSourceSrv, locationService } from '@grafana/runtime';
 import { DataQuery, ExploreUrlState, serializeStateToUrlParam, TimeRange, UrlQueryMap } from '@grafana/data';

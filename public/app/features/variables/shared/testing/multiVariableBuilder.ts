@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VariableWithMultiSupport } from 'app/features/variables/types';
 import { OptionsVariableBuilder } from './optionsVariableBuilder';
 

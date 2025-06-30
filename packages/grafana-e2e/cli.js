@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const execa = require('execa');
 const { program } = require('commander');
 const resolveBin = require('resolve-as-bin');

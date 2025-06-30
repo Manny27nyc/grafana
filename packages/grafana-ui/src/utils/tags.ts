@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const TAG_COLORS = [
   '#D32D20',
   '#1E72B8',

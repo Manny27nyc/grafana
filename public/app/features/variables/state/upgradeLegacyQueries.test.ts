@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { customBuilder, queryBuilder } from '../shared/testing/builders';
 import { VariableSupportType } from '@grafana/data';
 import { toVariableIdentifier } from './types';

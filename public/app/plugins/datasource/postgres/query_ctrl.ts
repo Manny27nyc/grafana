@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { clone, filter, find, findIndex, indexOf, map } from 'lodash';
 import appEvents from 'app/core/app_events';
 import { PostgresMetaQuery } from './meta_query';

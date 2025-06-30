@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Action } from '@reduxjs/toolkit';
 import { PipelineVariable } from '../../../aggregations';
 import { defaultPipelineVariable, generatePipelineVariableName } from '../utils';

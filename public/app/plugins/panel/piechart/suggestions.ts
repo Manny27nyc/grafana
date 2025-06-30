@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VisualizationSuggestionsBuilder } from '@grafana/data';
 import { LegendDisplayMode } from '@grafana/schema';
 import { SuggestionName } from 'app/types/suggestions';

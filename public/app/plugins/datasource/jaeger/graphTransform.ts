@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, NodeGraphDataFrameFieldNames as Fields } from '@grafana/data';
 import { Span, TraceResponse } from './types';
 import { getNonOverlappingDuration, getStats, makeFrames, makeSpanMap } from '../../../core/utils/tracing';

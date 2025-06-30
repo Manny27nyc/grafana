@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 type FieldsDefinition = {
   name: string;
   // String type, usually something like 'string' or 'float'.

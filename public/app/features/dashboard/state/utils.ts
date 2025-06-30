@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelModel } from './PanelModel';
 import { REPEAT_DIR_HORIZONTAL } from '../../../core/constants';
 

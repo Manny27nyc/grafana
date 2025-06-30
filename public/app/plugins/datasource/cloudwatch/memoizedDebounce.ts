@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { debounce, memoize } from 'lodash';
 
 export default (func: (...args: any[]) => void, wait = 7000) => {

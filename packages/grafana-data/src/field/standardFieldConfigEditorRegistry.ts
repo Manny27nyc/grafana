@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Registry, RegistryItem } from '../utils/Registry';
 import { ComponentType } from 'react';
 import { FieldConfigOptionsRegistry } from './FieldConfigOptionsRegistry';

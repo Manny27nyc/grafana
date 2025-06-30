@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CompletionItem, SearchFunction } from '../types';
 import { fuzzyMatch } from './fuzzy';
 

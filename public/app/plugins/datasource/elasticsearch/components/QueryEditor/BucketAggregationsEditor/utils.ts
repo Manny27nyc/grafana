@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BucketsConfiguration } from '../../../types';
 import { defaultFilter } from './SettingsEditor/FiltersSettingsEditor/utils';
 import { InternalTimeZones, SelectableValue } from '@grafana/data';

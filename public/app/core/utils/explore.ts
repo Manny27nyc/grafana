@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Libraries
 import { flatten, omit, uniq } from 'lodash';
 import { Unsubscribable } from 'rxjs';

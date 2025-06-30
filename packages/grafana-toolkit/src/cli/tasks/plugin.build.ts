@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useSpinner } from '../utils/useSpinner';
 import { testPlugin } from './plugin/tests';
 import { Task, TaskRunner } from './task';

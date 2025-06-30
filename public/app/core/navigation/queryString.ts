@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const queryString = (params: any) => {
   return Object.keys(params)
     .filter((k) => {

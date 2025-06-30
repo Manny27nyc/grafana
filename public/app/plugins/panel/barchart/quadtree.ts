@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const MAX_OBJECTS = 10;
 const MAX_LEVELS = 4;
 

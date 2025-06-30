@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RulesSource } from 'app/types/unified-alerting';
 import { useCallback } from 'react';
 import { GRAFANA_RULES_SOURCE_NAME } from '../utils/datasource';

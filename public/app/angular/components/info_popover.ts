@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { each } from 'lodash';
 import coreModule from 'app/angular/core_module';
 // @ts-ignore

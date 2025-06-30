@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector, FieldDTO } from '@grafana/data';
 import { ZipkinSpan } from '../types';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { KeyValue } from '../types';
 
 // Avoid writing the warning message more than once every 10s

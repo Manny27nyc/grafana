@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 type StoreValue = string | number | boolean | null;
 
 export class Store {

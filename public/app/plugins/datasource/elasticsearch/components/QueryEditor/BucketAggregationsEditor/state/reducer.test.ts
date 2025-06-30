@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { defaultBucketAgg } from 'app/plugins/datasource/elasticsearch/query_def';
 import { reducerTester } from 'test/core/redux/reducerTester';
 import { changeMetricType } from '../../MetricAggregationsEditor/state/actions';

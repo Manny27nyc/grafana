@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourcePlugin } from '@grafana/data';
 import { ElasticDatasource } from './datasource';
 import { ConfigEditor } from './configuration/ConfigEditor';

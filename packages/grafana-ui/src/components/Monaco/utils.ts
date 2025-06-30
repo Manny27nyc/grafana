@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VariableSuggestion } from '@grafana/data';
 import { CodeEditorSuggestionItem, CodeEditorSuggestionItemKind } from './types';
 

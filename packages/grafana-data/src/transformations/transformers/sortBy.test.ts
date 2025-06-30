@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame } from '../../dataframe/processDataFrame';
 import { sortByTransformer, SortByTransformerOptions } from './sortBy';
 import { mockTransformationsRegistry } from '../../utils/tests/mockTransformationsRegistry';

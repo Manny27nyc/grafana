@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { UsagesToNetwork, VariableUsageTree } from './utils';
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 

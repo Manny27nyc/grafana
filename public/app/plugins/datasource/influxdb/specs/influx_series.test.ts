@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import produce from 'immer';
 import InfluxSeries from '../influx_series';
 

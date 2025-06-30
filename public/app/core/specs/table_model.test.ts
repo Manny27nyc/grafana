@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import TableModel, { mergeTablesIntoModel } from 'app/core/table_model';
 
 describe('when sorting table desc', () => {

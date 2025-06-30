@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RefObject, useEffect, useState } from 'react';
 import { useEffectOnce } from 'react-use';
 import { MenuItemElement } from './MenuItem';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toHex, toHex0x } from './arithmeticFormatters';
 import { formattedValueToString } from './valueFormats';
 

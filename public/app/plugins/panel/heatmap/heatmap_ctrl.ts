@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MetricsPanelCtrl } from 'app/plugins/sdk';
 import { defaultsDeep, includes, keys, map, reduce, min as _min, max as _max } from 'lodash';
 import kbn from 'app/core/utils/kbn';

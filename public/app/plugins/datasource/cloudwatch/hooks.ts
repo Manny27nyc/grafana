@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useState } from 'react';
 import { SelectableValue, toOption } from '@grafana/data';
 import { appendTemplateVariables } from './utils/utils';

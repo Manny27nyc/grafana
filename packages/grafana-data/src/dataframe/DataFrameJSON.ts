@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, FieldType, FieldConfig, Labels, QueryResultMeta } from '../types';
 import { ArrayVector } from '../vector';
 import { guessFieldTypeFromNameAndValue } from './processDataFrame';

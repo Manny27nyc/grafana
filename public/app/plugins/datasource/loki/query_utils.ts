@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { escapeRegExp } from 'lodash';
 import { PIPE_PARSERS } from './syntax';
 

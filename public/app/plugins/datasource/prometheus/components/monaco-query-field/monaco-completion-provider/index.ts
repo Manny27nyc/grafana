@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Monaco, monacoTypes } from '@grafana/ui';
 
 import { getSituation } from './situation';

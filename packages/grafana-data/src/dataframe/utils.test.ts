@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame } from './processDataFrame';
 import { FieldType } from '../types';
 import { anySeriesWithTimeField } from './utils';

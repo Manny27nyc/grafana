@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DashboardCursorSync } from '@grafana/data';
 import { HideableFieldConfig, OptionsWithLegend, OptionsWithTooltip, VisibilityMode } from '@grafana/schema';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PluginState } from '../types';
 import { SelectableValue } from '../types/select';
 

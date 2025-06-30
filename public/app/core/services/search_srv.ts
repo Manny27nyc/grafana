@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { clone, keys, sortBy, take, values } from 'lodash';
 import impressionSrv from 'app/core/services/impression_srv';
 import store from 'app/core/store';

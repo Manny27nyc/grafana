@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Calculate tick step.
  * Implementation from d3-array (ticks.js)

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SelectableValue } from '@grafana/data';
 import React from 'react';
 import { ActionMeta as SelectActionMeta, GroupBase, OptionsOrGroups } from 'react-select';

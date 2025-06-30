@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AlertState, getDefaultTimeRange, LoadingState, PanelData, toDataFrame } from '@grafana/data';
 import { mergePanelAndDashData } from './mergePanelAndDashData';
 import { TestScheduler } from 'rxjs/testing';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getTemplateSrv, TemplateSrv } from 'app/features/templating/template_srv';
 import { SQLExpression } from '../types';
 import {

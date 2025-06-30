@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSlice, Draft, PayloadAction } from '@reduxjs/toolkit';
 import { AngularComponent } from '@grafana/runtime';
 import { PanelPlugin } from '@grafana/data';

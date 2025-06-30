@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Location } from 'history';
 import { NavModelItem, NavSection } from '@grafana/data';
 import { getConfig } from 'app/core/config';

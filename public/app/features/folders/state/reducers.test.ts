@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FolderDTO, FolderState, OrgRole, PermissionLevel } from 'app/types';
 import { folderReducer, initialState, loadFolder, loadFolderPermissions, setFolderTitle } from './reducers';
 import { reducerTester } from '../../../../test/core/redux/reducerTester';

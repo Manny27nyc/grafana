@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceWithBackend } from '@grafana/runtime';
 import { DataSourceInstanceSettings } from '../../../../../../packages/grafana-data/src';
 import {

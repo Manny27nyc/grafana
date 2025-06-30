@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cloneDeep, isNumber } from 'lodash';
 import { coreModule } from 'app/angular/core_module';
 import { AnnotationEvent, dateTime } from '@grafana/data';

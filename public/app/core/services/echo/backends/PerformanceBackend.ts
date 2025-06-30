@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EchoBackend, EchoEvent, EchoEventType } from '@grafana/runtime';
 import { backendSrv } from '../../backend_srv';
 

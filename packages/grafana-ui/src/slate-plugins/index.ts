@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { BracesPlugin } from './braces';
 export { ClearPlugin } from './clear';
 export { ClipboardPlugin } from './clipboard';

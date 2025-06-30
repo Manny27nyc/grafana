@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromPairs, uniq } from 'lodash';
 import { useMemo } from 'react';
 import { EdgeDatumLayout, NodeDatum, NodesMarker } from './types';

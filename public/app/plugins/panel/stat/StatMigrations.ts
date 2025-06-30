@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { sharedSingleStatPanelChangedHandler, BigValueGraphMode, BigValueColorMode } from '@grafana/ui';
 import { FieldColorModeId, FieldConfigSource, PanelModel } from '@grafana/data';
 import { StatPanelOptions } from './types';

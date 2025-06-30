@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { find, first, isArray, isString, escape } from 'lodash';
 import {
   escapeStringForRegex,

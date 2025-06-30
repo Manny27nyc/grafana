@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { createTheme } from './createTheme';
 export { ThemeRichColor, GrafanaTheme2 } from './types';
 export { ThemeColors } from './createColors';

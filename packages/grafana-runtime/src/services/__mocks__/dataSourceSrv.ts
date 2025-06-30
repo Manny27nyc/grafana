@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const ds1 = {
   id: 1,
   uid: 'c8eceabb-0275-4108-8f03-8f74faf4bf6d',

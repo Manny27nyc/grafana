@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PipelineVariable } from '../../aggregations';
 
 export const defaultPipelineVariable = (name: string): PipelineVariable => ({ name, pipelineAgg: '' });

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PreloadPlugin } from '@grafana/data';
 import { importPluginModule } from './plugin_loader';
 

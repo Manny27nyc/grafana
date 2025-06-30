@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function ensureDefine(templateName: string, templateContent: string): string {
   // notification template content must be wrapped in {{ define "name" }} tag,
   // but this is not obvious because user also has to provide name separately in the form.

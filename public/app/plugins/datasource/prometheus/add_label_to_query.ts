@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { chain, isEqual } from 'lodash';
 import { OPERATORS, LOGICAL_OPERATORS, PROM_KEYWORDS } from './promql';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import angular from 'angular';
 import TimeSeries from 'app/core/time_series2';
 import { ThresholdManager } from '../threshold_manager';

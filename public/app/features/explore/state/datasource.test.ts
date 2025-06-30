@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { updateDatasourceInstanceAction, datasourceReducer } from './datasource';
 import { ExploreId, ExploreItemState } from 'app/types';
 import { DataQuery, DataSourceApi } from '@grafana/data';

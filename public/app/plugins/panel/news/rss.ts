@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RssFeed, RssItem } from './types';
 
 export async function loadRSSFeed(url: string): Promise<RssFeed> {

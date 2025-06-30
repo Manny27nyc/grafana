@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame } from '@grafana/data';
 import { Feature } from 'ol';
 import { Geometry } from 'ol/geom';

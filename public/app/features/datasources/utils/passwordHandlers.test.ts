@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createResetHandler, PasswordFieldEnum, Ctrl } from './passwordHandlers';
 describe('createResetHandler', () => {
   Object.values(PasswordFieldEnum).forEach((field) => {

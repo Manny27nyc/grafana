@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { configurePanel, PartialAddPanelConfig } from './configurePanel';
 import { getScenarioContext } from '../support/scenarioContext';
 import { v4 as uuidv4 } from 'uuid';

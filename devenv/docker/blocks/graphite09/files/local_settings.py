@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 # Edit this file to override the default graphite settings, do not edit settings.py
 
 # Turn on debugging and restart apache if you ever see an "Internal Server Error" page

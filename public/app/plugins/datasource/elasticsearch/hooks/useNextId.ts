@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useMemo } from 'react';
 import { useQuery } from '../components/QueryEditor/ElasticsearchQueryContext';
 import { BucketAggregation } from '../components/QueryEditor/BucketAggregationsEditor/aggregations';

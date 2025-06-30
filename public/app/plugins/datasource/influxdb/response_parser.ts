@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { each, isArray } from 'lodash';
 
 export default class ResponseParser {

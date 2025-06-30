@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { lastValueFrom } from 'rxjs';
 import { DataSourcePluginMeta, DataSourceSettings, locationUtil } from '@grafana/data';
 import { DataSourceWithBackend, getDataSourceSrv, locationService } from '@grafana/runtime';

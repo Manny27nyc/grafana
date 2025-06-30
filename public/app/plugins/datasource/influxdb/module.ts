@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import InfluxDatasource from './datasource';
 import { QueryEditor } from './components/QueryEditor';
 import InfluxStartPage from './components/InfluxStartPage';

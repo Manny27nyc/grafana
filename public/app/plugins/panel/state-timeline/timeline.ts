@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import uPlot, { Cursor, Series } from 'uplot';
 import { FIXED_UNIT } from '@grafana/ui/src/components/GraphNG/GraphNG';
 import { pointWithin, Quadtree, Rect } from 'app/plugins/panel/barchart/quadtree';

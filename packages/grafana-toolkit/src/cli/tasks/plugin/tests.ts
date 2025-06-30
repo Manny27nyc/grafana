@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { runCLI } from '@jest/core';
 import { useSpinner } from '../../utils/useSpinner';
 import { loadJestPluginConfig } from '../../../config/jest.plugin.config';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /** @beta */
 export interface ThemeBreakpointValues {
   xs: number;

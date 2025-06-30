@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { bind } from 'lodash';
 
 // This is auto generated from the unicode tables.

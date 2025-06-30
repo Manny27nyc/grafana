@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const FETCH_RESULTS = 'FETCH_RESULTS';
 export const TOGGLE_SECTION = 'TOGGLE_SECTION';
 export const FETCH_ITEMS = 'FETCH_ITEMS';

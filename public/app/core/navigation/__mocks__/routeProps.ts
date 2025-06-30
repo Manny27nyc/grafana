@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaRouteComponentProps } from '../types';
 import { createMemoryHistory } from 'history';
 import { merge } from 'lodash';

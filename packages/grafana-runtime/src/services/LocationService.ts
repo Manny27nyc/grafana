@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { deprecationWarning, UrlQueryMap, urlUtil } from '@grafana/data';
 import * as H from 'history';
 import { LocationUpdate } from './LocationSrv';

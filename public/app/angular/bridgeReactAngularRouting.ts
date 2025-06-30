@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { coreModule } from './core_module';
 import { RouteProvider } from '../core/navigation/patch/RouteProvider';
 import { RouteParamsProvider } from '../core/navigation/patch/RouteParamsProvider';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { renderHook, act } from '@testing-library/react-hooks';
 import { useViewRange } from './useViewRange';
 

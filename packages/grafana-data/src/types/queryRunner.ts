@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable } from 'rxjs';
 import { DataQuery, DataSourceRef } from './query';
 import { DataSourceApi } from './datasource';

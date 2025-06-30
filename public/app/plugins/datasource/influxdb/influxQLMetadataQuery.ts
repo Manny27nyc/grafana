@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { InfluxQueryTag } from './types';
 import InfluxDatasource from './datasource';
 import { InfluxQueryBuilder } from './query_builder';

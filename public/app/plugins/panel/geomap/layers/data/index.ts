@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { markersLayer } from './markersLayer';
 import { geojsonLayer } from './geojsonLayer';
 import { heatmapLayer } from './heatMap';

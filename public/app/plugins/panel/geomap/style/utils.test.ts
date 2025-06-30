@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ResourceDimensionMode } from 'app/features/dimensions';
 import { StyleConfig } from './types';
 import { getStyleConfigState } from './utils';

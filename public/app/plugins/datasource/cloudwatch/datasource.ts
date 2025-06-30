@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import angular from 'angular';
 import { find, findLast, isEmpty, isString, set } from 'lodash';

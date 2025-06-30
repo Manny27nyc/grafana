@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable, Subscription } from 'rxjs';
 import { matcherHint, printExpected, printReceived } from 'jest-matcher-utils';
 import { expectObservable, forceObservableCompletion } from './utils';

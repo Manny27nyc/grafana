@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldType, MutableDataFrame } from '@grafana/data';
 import { createTableFrame, transformToOTLP, transformFromOTLP } from './resultTransformer';
 import { otlpDataFrameToResponse, otlpDataFrameFromResponse, otlpResponse } from './testResponse';

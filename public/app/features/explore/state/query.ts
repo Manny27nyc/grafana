@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { mergeMap, throttleTime } from 'rxjs/operators';
 import { identity, Observable, of, SubscriptionLike, Unsubscribable } from 'rxjs';
 import {

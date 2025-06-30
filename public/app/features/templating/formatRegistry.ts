@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import kbn from 'app/core/utils/kbn';
 import { dateTime, Registry, RegistryItem, textUtil, VariableModel } from '@grafana/data';
 import { isArray, map, replace } from 'lodash';

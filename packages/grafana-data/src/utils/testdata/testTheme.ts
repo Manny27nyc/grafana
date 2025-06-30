@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaTheme, GrafanaThemeType } from '../../types/theme';
 
 export function getTestTheme(type: GrafanaThemeType = GrafanaThemeType.Dark): GrafanaTheme {

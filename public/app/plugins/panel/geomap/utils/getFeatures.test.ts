@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Feature } from 'ol';
 import { Point } from 'ol/geom';
 import { GeometryTypeId } from '../style/types';

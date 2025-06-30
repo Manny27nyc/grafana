@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { currency } from './symbolFormatters';
 
 describe('currency', () => {

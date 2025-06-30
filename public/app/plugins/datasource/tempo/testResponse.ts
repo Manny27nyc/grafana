@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MutableDataFrame } from '@grafana/data';
 
 export const bigResponse = new MutableDataFrame({

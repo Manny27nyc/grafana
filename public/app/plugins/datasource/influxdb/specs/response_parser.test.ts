@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { size } from 'lodash';
 import ResponseParser from '../response_parser';
 

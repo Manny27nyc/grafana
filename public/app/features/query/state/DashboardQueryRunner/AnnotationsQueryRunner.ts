@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable, of } from 'rxjs';
 import { catchError, map } from 'rxjs/operators';
 import { AnnotationEvent, DataSourceApi } from '@grafana/data';

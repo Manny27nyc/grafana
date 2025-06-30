@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const JSURL = require('jsurl');
 
 export interface AwsUrl {

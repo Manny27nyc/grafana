@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Copyright (c) 2014, Hugh Kennedy
 // Based on code from https://github.com/hughsk/flat/blob/master/index.js
 //

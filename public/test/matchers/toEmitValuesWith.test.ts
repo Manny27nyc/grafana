@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { interval, Observable, of, throwError } from 'rxjs';
 import { map, mergeMap, take } from 'rxjs/operators';
 

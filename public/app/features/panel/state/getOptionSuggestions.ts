@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VisualizationSuggestion, PanelModel, PanelPlugin, PanelData } from '@grafana/data';
 
 export function getOptionSuggestions(

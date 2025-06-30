@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { defaultsDeep } from 'lodash';
 import { CloudWatchAnnotationQuery } from './types';
 

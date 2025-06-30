@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dateTime, DateTime, PanelProps, TimeRange } from '@grafana/data';
 import { applyPanelTimeOverrides, calculateInnerPanelHeight } from 'app/features/dashboard/utils/panel';
 import { advanceTo, clear } from 'jest-date-mock';

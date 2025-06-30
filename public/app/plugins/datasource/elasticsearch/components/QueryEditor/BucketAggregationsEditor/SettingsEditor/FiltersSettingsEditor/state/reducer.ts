@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Action } from 'redux';
 import { Filter } from '../../../aggregations';
 import { defaultFilter } from '../utils';

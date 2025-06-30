@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import 'jquery';
 import '../../../public/vendor/flot/jquery.flot.js';
 import '../../../public/vendor/flot/jquery.flot.selection';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SliderMarks } from '@grafana/data';
 import { Orientation } from '../../types/orientation';
 

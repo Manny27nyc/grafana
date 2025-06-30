@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import GithubClient from './githubClient';
 
 const fakeClient = jest.fn();

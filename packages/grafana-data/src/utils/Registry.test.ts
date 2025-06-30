@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Registry } from './Registry';
 import { FieldReducerInfo, fieldReducers, ReducerID } from '../transformations';
 

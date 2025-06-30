@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { Project } from './Project';
 export { Metrics } from './Metrics';
 export { GroupBy } from './GroupBy';

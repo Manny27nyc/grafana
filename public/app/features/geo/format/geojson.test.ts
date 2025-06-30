@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dataFrameToJSON, FieldType } from '@grafana/data';
 import { frameFromGeoJSON } from './geojson';
 

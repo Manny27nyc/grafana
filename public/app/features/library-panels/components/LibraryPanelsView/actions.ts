@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Dispatch } from 'react';
 import { AnyAction } from '@reduxjs/toolkit';
 import { from, merge, of, Subscription, timer } from 'rxjs';

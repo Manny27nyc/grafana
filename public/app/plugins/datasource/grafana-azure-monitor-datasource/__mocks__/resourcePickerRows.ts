@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ResourceRowGroup, ResourceRowType } from '../components/ResourcePicker/types';
 
 export const createMockResourcePickerRows = (): ResourceRowGroup => [

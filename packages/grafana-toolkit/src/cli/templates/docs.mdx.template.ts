@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const docsTpl = `import { ArgsTable } from '@storybook/addon-docs/blocks';
 import { <%= name %> } from './<%= name %>';
 

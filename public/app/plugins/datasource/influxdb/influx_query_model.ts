@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { map, find, filter, indexOf } from 'lodash';
 import queryPart from './query_part';
 import kbn from 'app/core/utils/kbn';

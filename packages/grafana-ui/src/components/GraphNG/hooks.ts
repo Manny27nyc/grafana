@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, DataFrameFieldIndex, Field } from '@grafana/data';
 import { XYFieldMatchers } from './types';
 import React, { useCallback, useContext } from 'react';

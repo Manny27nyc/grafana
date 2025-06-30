@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Flot plugin for showing crosshairs when the mouse hovers over the plot.
 
 Copyright (c) 2007-2014 IOLA and Ole Laursen.

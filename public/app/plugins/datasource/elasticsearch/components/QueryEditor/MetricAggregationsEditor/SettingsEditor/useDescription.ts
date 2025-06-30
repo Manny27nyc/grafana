@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { extendedStats } from '../../../../query_def';
 import { MetricAggregation } from '../aggregations';
 

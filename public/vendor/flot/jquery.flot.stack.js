@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Flot plugin for stacking data sets rather than overlyaing them.
 
 Copyright (c) 2007-2014 IOLA and Ole Laursen.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { lastValueFrom, of } from 'rxjs';
 import { DataFrame, getFrameDisplayName, toUtc } from '@grafana/data';
 import { setBackendSrv } from '@grafana/runtime';

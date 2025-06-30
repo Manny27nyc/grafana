@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, DataQuery, DataQueryError } from '@grafana/data';
 
 export const SHARED_DASHBOARD_QUERY = '-- Dashboard --';

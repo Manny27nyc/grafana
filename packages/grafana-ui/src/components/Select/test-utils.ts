@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { select } from 'react-select-event';
 
 // Used to select an option or options from a Select in unit tests

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQueryError, DataSourceApi, PanelData, PanelPlugin } from '@grafana/data';
 import useAsync from 'react-use/lib/useAsync';
 import { getDataSourceSrv } from '@grafana/runtime';

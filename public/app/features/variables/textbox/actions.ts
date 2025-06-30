@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TextBoxVariableModel } from '../types';
 import { ThunkResult } from '../../../types';
 import { getVariable } from '../state/selectors';

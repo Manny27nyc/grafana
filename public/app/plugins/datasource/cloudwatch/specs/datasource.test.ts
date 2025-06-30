@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { interval, lastValueFrom, of, throwError } from 'rxjs';
 import {
   DataFrame,

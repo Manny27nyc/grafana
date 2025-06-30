@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { mocked } from 'ts-jest/utils';
 import { setBackendSrv } from '@grafana/runtime';
 import { API_ROOT, GCOM_API_ROOT } from '../constants';

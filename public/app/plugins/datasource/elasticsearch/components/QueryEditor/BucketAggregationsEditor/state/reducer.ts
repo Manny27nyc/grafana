@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { defaultBucketAgg } from '../../../../query_def';
 import { ElasticsearchQuery } from '../../../../types';
 import { metricAggregationConfig } from '../../MetricAggregationsEditor/utils';

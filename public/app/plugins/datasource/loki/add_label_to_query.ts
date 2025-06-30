@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { chain, isEqual } from 'lodash';
 import { LOKI_KEYWORDS } from './syntax';
 import { PROM_KEYWORDS, OPERATORS, LOGICAL_OPERATORS } from 'app/plugins/datasource/prometheus/promql';

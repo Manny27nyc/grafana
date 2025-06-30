@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dateMath, dateTime, TimeRange } from '@grafana/data';
 import { BehaviorSubject } from 'rxjs';
 import { PanelChrome } from './PanelChrome';

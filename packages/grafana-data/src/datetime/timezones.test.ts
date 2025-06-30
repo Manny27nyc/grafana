@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getTimeZoneInfo } from './timezones';
 import { setTimeZoneResolver } from './common';
 

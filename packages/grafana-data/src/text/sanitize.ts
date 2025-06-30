@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as xss from 'xss';
 import { sanitizeUrl as braintreeSanitizeUrl } from '@braintree/sanitize-url';
 

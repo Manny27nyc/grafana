@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentType } from 'react';
 import { Reducer } from 'redux';
 import { Registry, UrlQueryValue, VariableType } from '@grafana/data';

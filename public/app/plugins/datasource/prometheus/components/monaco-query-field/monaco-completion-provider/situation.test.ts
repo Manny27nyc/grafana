@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getSituation, Situation } from './situation';
 
 // we use the `^` character as the cursor-marker in the string.

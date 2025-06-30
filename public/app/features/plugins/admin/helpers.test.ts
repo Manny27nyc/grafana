@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RemotePlugin, LocalPlugin } from './types';
 import { getLocalPluginMock, getRemotePluginMock, getCatalogPluginMock } from './__mocks__';
 import { PluginSignatureStatus, PluginSignatureType, PluginType } from '@grafana/data';

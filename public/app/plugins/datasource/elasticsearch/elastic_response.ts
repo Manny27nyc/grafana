@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { clone, filter, find, identity, isArray, keys, map, uniq, values as _values } from 'lodash';
 import flatten from 'app/core/utils/flatten';
 import * as queryDef from './query_def';

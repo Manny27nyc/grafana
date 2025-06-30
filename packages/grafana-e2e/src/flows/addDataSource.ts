@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DeleteDataSourceConfig } from './deleteDataSource';
 import { e2e } from '../index';
 import { v4 as uuidv4 } from 'uuid';

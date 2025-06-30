@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SelectableValue } from '@grafana/data';
 import { FeatureLike } from 'ol/Feature';
 import { GeometryTypeId } from '../style/types';

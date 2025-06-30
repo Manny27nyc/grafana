@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQueryResponse, dateMath } from '@grafana/data';
 import { addDataLinksToLogsResponse } from './datalinks';
 import { setDataSourceSrv } from '@grafana/runtime';

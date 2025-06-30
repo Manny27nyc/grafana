@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 declare module 'app/core/controllers/all' {
   let json: any;
   export { json };

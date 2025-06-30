@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isNumber, isFinite, escape } from 'lodash';
 import { DecimalCount, formattedValueToString, getValueFormat, stringToJsRegex, ValueFormatter } from '@grafana/data';
 

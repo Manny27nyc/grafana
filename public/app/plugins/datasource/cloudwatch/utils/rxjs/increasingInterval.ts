@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SchedulerLike, Observable, SchedulerAction, Subscriber, asyncScheduler } from 'rxjs';
 
 /**

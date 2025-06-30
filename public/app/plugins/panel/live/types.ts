@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LiveChannelAddress } from '@grafana/data';
 
 export enum MessageDisplayMode {

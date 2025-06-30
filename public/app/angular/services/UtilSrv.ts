@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaRootScope } from 'app/angular/GrafanaCtrl';
 import { HideModalEvent, ShowModalEvent } from '../../types/events';
 import { deprecationWarning } from '@grafana/data';

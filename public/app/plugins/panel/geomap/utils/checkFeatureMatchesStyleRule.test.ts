@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Feature } from 'ol';
 import { ComparisonOperation } from '../types';
 import { checkFeatureMatchesStyleRule } from './checkFeatureMatchesStyleRule';

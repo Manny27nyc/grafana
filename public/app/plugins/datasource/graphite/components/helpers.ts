@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FuncDefs, FuncInstance, ParamDef } from '../gfunc';
 import { forEach, sortBy } from 'lodash';
 import { SelectableValue } from '@grafana/data';

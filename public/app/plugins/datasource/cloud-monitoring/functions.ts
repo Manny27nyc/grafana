@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { chunk, flatten, initial, startCase, uniqBy } from 'lodash';
 import { ALIGNMENTS, AGGREGATIONS, SYSTEM_LABELS } from './constants';
 import CloudMonitoringDatasource from './datasource';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useQueryParams } from 'app/core/hooks/useQueryParams';
 import { AlertmanagerGroup } from 'app/plugins/datasource/alertmanager/types';
 import { useMemo } from 'react';

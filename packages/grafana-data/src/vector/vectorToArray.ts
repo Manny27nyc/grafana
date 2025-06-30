@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Vector } from '../types/vector';
 
 export function vectorToArray<T>(v: Vector<T>): T[] {

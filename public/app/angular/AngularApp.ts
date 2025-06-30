@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import angular from 'angular';
 import 'angular-route';
 import 'angular-sanitize';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DashboardSearchItemType, DashboardSection } from './types';
 
 export const generalFolder: DashboardSection = {

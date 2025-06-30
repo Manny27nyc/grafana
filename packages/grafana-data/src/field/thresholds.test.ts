@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ThresholdsConfig, ThresholdsMode, FieldConfig, Threshold, Field, FieldType } from '../types';
 import { sortThresholds, getActiveThreshold, getActiveThresholdForValue } from './thresholds';
 import { validateFieldConfig } from './fieldOverrides';

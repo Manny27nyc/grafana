@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as comlink from 'comlink';
 import { from, Observable, switchMap } from 'rxjs';
 

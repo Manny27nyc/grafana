@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RegistryItemWithOptions } from '../utils/Registry';
 import { PanelData } from '../types';
 import { GrafanaTheme2 } from '../themes';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { map as _map } from 'lodash';
 import { lastValueFrom, of } from 'rxjs';
 import { map, catchError } from 'rxjs/operators';

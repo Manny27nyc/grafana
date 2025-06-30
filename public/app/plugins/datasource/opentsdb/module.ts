@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import OpenTsDatasource from './datasource';
 import { OpenTsQueryCtrl } from './query_ctrl';
 import { DataSourcePlugin } from '@grafana/data';

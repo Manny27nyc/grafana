@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NavModel, NavModelItem, NavIndex } from '@grafana/data';
 
 const getNotFoundModel = (): NavModel => {

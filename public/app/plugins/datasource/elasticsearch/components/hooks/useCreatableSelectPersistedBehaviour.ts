@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SelectableValue } from '@grafana/data';
 import { useState } from 'react';
 

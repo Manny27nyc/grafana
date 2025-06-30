@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 interface JQueryPlot {
   (element: HTMLElement | JQuery, data: any, options: any): void;
   plugins: any[];

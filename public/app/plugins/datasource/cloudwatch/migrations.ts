@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationQuery, DataQuery } from '@grafana/data';
 import { getNextRefIdChar } from 'app/core/utils/query';
 import { MetricEditorMode, CloudWatchAnnotationQuery, CloudWatchMetricsQuery, MetricQueryType } from './types';

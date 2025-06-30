@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Task, TaskRunner } from './task';
 import { getPluginJson } from '../../config/utils/pluginValidation';
 import { GitHubRelease } from '../utils/githubRelease';

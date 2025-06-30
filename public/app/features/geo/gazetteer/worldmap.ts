@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PlacenameInfo, Gazetteer } from './gazetteer';
 import { Point } from 'ol/geom';
 import { fromLonLat } from 'ol/proj';

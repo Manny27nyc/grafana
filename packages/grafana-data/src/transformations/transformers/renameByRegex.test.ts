@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataTransformerConfig, DataTransformerID, FieldType, toDataFrame, transformDataFrame } from '@grafana/data';
 import { renameByRegexTransformer, RenameByRegexTransformerOptions } from './renameByRegex';
 import { mockTransformationsRegistry } from '../../utils/tests/mockTransformationsRegistry';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toFilters, toUrl } from './urlParser';
 import { AdHocVariableFilter } from 'app/features/variables/types';
 import { UrlQueryValue } from '@grafana/data';

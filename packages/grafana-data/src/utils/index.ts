@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as arrayUtils from './arrayUtils';
 
 export * from './Registry';

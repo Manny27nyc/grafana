@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getTeam, getTeamMembers, getTeams, isSignedInUserTeamAdmin, Config } from './selectors';
 import { getMockTeam, getMockTeamMembers, getMultipleMockTeams } from '../__mocks__/teamMocks';
 import { Team, TeamGroup, TeamsState, TeamState, OrgRole } from '../../../types';

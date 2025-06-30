@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Wrapper for the new ngReact <color-picker> directive for backward compatibility.
  * Allows remaining <spectrum-picker> untouched in outdated plugins.

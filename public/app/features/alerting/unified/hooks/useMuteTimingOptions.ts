@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SelectableValue } from '@grafana/data';
 import { AlertmanagerConfig } from 'app/plugins/datasource/alertmanager/types';
 import { useMemo } from 'react';

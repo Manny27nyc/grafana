@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { Segment } from './Segment';
 export { SegmentAsync } from './SegmentAsync';
 export { SegmentSelect } from './SegmentSelect';

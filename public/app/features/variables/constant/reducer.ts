@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { ConstantVariableModel, initialVariableModelState, VariableHide, VariableOption } from '../types';
 import { getInstanceState, VariablePayload, initialVariablesState, VariablesState } from '../state/types';

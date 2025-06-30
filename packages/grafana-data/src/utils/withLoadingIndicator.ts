@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { merge, Observable, timer } from 'rxjs';
 import { mapTo, takeUntil } from 'rxjs/operators';
 

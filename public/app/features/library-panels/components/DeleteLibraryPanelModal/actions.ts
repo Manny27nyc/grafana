@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DispatchResult, LibraryElementDTO } from '../../types';
 import { getConnectedDashboards as apiGetConnectedDashboards } from '../../state/api';
 import { searchCompleted } from './reducer';

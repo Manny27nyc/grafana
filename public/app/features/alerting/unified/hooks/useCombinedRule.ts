@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useMemo } from 'react';
 import { useDispatch } from 'react-redux';
 import { CombinedRule, RuleIdentifier, RuleNamespace } from 'app/types/unified-alerting';

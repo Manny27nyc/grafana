@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Duration, Interval } from 'date-fns';
 import intervalToDuration from 'date-fns/intervalToDuration';
 import add from 'date-fns/add';

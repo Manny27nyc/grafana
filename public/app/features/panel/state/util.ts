@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelPluginMeta, PluginState } from '@grafana/data';
 import { config } from 'app/core/config';
 

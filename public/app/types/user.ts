@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { OrgRole } from '.';
 import { SelectableValue, WithAccessControlMetadata } from '@grafana/data';
 export interface OrgUser extends WithAccessControlMetadata {

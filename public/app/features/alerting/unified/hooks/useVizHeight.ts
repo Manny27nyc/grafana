@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelData } from '@grafana/data';
 import { useTheme2 } from '@grafana/ui';
 import { STAT, TIMESERIES } from '../utils/constants';

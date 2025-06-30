@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ActionCreatorWithoutPayload, PayloadActionCreator } from '@reduxjs/toolkit';
 
 export const mockToolkitActionCreator = (creator: PayloadActionCreator<any>) => {

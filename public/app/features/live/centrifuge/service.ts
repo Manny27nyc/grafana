@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Centrifuge from 'centrifuge/dist/centrifuge';
 import {
   GrafanaLiveSrv,

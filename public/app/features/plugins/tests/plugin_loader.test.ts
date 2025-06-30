@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Use the real plugin_loader (stubbed by default)
 jest.unmock('app/features/plugins/plugin_loader');
 

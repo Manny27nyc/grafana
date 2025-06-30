@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { sleep, check, group } from 'k6';
 import { createBasicAuthClient } from './modules/client.js';
 

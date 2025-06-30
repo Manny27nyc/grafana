@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { default as calculateSize } from 'calculate-size';
 import { CompletionItemGroup, CompletionItem, CompletionItemKind } from '../types/completion';
 import { GrafanaTheme } from '@grafana/data';

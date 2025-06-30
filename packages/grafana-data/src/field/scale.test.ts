@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ThresholdsMode, Field, FieldType, FieldColorModeId } from '../types';
 import { sortThresholds } from './thresholds';
 import { ArrayVector } from '../vector/ArrayVector';

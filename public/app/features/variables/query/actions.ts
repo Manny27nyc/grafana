@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Subscription } from 'rxjs';
 import { getDataSourceSrv, toDataQueryError } from '@grafana/runtime';
 import { DataSourceRef } from '@grafana/data';

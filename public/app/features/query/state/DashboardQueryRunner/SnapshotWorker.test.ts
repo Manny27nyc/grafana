@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationEvent, getDefaultTimeRange } from '@grafana/data';
 
 import { DashboardQueryRunnerOptions } from './types';

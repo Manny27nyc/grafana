@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { map, cloneDeep } from 'lodash';
 import { of, throwError } from 'rxjs';
 import {

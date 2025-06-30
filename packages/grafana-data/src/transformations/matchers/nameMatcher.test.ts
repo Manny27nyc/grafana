@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getFieldMatcher } from '../matchers';
 import { FieldMatcherID } from './ids';
 import { toDataFrame } from '../../dataframe/processDataFrame';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Libraries
 import { from, merge, Observable, of, timer } from 'rxjs';
 import { isString, map as isArray } from 'lodash';

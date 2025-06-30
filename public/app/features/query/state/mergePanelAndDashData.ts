@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { combineLatest, Observable, of } from 'rxjs';
 import { ArrayDataFrame, PanelData } from '@grafana/data';
 import { DashboardQueryRunnerResult } from './DashboardQueryRunner/types';

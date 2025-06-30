@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, FieldType, parseLabels, KeyValue, CircularDataFrame } from '@grafana/data';
 import { Observable, throwError, timer } from 'rxjs';
 import { webSocket } from 'rxjs/webSocket';

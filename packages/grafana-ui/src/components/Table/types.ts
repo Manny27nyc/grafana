@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CellProps, Column, Row } from 'react-table';
 import { Field, KeyValue, SelectableValue } from '@grafana/data';
 import { TableStyles } from './styles';

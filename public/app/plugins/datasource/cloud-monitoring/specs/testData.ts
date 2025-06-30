@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const metricDescriptors = [
   {
     name: 'projects/grafana-prod/metricDescriptors/agent.googleapis.com/agent/api_request_count',

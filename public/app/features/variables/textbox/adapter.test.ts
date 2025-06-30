@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { variableAdapters } from '../adapters';
 import { createTextBoxVariableAdapter } from './adapter';
 import { textboxBuilder } from '../shared/testing/builders';

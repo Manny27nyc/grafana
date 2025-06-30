@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrameDTO, FieldType } from '../types/dataFrame';
 import { MutableDataFrame } from './MutableDataFrame';
 

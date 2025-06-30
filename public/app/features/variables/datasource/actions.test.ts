@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceInstanceSettings } from '@grafana/data';
 
 import { reduxTester } from '../../../../test/core/redux/reduxTester';

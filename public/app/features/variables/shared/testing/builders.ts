@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AdHocVariableBuilder } from './adHocVariableBuilder';
 import { IntervalVariableBuilder } from './intervalVariableBuilder';
 import { DatasourceVariableBuilder } from './datasourceVariableBuilder';

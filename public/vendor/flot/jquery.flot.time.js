@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Pretty handling of time axes.
 
 Copyright (c) 2007-2013 IOLA and Ole Laursen.

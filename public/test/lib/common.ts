@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const _global = window as any;
 const beforeEach = _global.beforeEach;
 const afterEach = _global.afterEach;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toNumber } from 'lodash';
 import { DataFrame, DisplayValue, TimeZone } from '../types';
 import { formattedValueToString } from '../valueFormats';

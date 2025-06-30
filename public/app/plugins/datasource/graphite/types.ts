@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery, DataSourceJsonData, TimeRange } from '@grafana/data';
 import { GraphiteDatasource } from './datasource';
 import { TemplateSrv } from '../../../features/templating/template_srv';

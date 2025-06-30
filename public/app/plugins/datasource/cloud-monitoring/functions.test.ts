@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getAlignmentOptionsByMetric } from './functions';
 import { ValueTypes, MetricKind } from './types';
 

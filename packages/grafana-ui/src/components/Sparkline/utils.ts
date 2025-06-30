@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, FieldConfig, FieldSparkline, IndexVector } from '@grafana/data';
 import { GraphFieldConfig } from '@grafana/schema';
 

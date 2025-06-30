@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dateTime, TimeRange } from '@grafana/data';
 
 import { TemplateSrv } from '../../templating/template_srv';

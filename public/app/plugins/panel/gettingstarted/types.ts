@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { IconName } from '@grafana/ui';
 
 export type CardType = 'tutorial' | 'docs' | 'other';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { of } from 'rxjs';
 import { dataFrameToJSON, dateTime, MetricFindValue, MutableDataFrame } from '@grafana/data';
 

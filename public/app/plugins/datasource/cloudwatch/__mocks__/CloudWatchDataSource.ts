@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dateTime } from '@grafana/data';
 import { setBackendSrv } from '@grafana/runtime';
 import { TemplateSrvMock } from '../../../../features/templating/template_srv.mock';

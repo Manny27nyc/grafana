@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createBreakpoints } from './breakpoints';
 import { createComponents } from './createComponents';
 import { createColors, ThemeColorsInput } from './createColors';

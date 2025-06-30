@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { default as TraceTimelineViewer } from './TraceTimelineViewer';
 export { default as TracePageHeader } from './TracePageHeader';
 export { default as UIElementsContext } from './uiElementsContext';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { forceSimulation, forceLink, forceCollide, forceX } from 'd3-force';
 
 addEventListener('message', (event) => {

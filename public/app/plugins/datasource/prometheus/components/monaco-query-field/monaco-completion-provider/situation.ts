@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { parser } from 'lezer-promql';
 import type { Tree, SyntaxNode } from 'lezer-tree';
 import { NeverCaseError } from './util';

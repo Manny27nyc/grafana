@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { configure } from 'enzyme';
 import { EventBusSrv } from '@grafana/data';
 import Adapter from '@wojtekmaj/enzyme-adapter-react-17';

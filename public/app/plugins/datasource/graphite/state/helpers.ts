@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GraphiteQueryEditorState } from './store';
 import { clone } from 'lodash';
 import { dispatch } from '../../../../store/store';

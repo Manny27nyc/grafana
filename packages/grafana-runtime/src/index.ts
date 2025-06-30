@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * A library containing services, configurations etc. used to interact with the Grafana engine.
  *

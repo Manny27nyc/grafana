@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { identityOverrideProcessor, ThresholdsMode } from '@grafana/data';
 
 export function mockStandardFieldConfigOptions() {

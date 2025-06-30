@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { find, isEmpty, isNaN, isNil, isString, map, max, min, toNumber } from 'lodash';
 import $ from 'jquery';
 import * as d3 from 'd3';

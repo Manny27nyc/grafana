@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector, DataFrame, Field, FieldType, getFieldTypeFromValue } from '@grafana/data';
 import GeoJSON from 'ol/format/GeoJSON';
 import { Geometry } from 'ol/geom';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SelectableValue } from './../../../../../../../packages/grafana-data/src/types/select';
 import { SCHEMA } from '../../cloudwatch-sql/language';
 import {

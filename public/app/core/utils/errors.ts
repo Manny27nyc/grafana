@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isString } from 'lodash';
 
 export function getMessageFromError(err: string | (Error & { data?: any; statusText?: string })): string {

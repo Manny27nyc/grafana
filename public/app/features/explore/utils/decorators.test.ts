@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GraphDrawStyle, StackingMode } from '@grafana/schema';
 import { lastValueFrom } from 'rxjs';
 import {

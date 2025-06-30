@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { layout } = jest.requireActual('../../app/plugins/panel/nodeGraph/layout.worker.js');
 
 class LayoutMockWorker {

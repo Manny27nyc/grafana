@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as reactRedux from 'react-redux';
 import { useExternalAmSelector } from './useExternalAmSelector';
 

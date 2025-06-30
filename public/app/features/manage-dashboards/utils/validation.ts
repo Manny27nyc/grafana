@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { validationSrv } from '../services/ValidationSrv';
 import { getBackendSrv } from '@grafana/runtime';
 

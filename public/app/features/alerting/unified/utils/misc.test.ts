@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { sortAlerts } from 'app/features/alerting/unified/utils/misc';
 import { GrafanaAlertState } from 'app/types/unified-alerting-dto';
 import { Alert } from 'app/types/unified-alerting';

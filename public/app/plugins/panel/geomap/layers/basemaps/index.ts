@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cartoLayers } from './carto';
 import { esriLayers } from './esri';
 import { genericLayers } from './generic';

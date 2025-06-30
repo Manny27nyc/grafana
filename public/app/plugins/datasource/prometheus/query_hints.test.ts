@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getQueryHints, SUM_HINT_THRESHOLD_COUNT } from './query_hints';
 import { PrometheusDatasource } from './datasource';
 

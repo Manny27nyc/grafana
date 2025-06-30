@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export type MutateStateFunc<S> = (state: S) => S;
 
 export const applyStateChanges = <S>(state: S, ...args: Array<MutateStateFunc<S>>): S => {

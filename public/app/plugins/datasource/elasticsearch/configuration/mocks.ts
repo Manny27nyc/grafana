@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceSettings } from '@grafana/data';
 import { ElasticsearchOptions } from '../types';
 import { createDatasourceSettings } from '../../../../features/datasources/mocks';

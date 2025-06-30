@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 function roundDec(val: number, dec: number) {
   return Math.round(val * (dec = 10 ** dec)) / dec;
 }

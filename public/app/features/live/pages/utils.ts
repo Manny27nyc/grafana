@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getBackendSrv } from '@grafana/runtime';
 import { PipelineListOption, PipeLineEntitiesInfo } from './types';
 

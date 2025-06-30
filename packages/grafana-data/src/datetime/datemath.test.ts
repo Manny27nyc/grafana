@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import sinon, { SinonFakeTimers } from 'sinon';
 import { each } from 'lodash';
 

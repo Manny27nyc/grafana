@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MapLayerRegistryItem, MapLayerOptions } from '@grafana/data';
 import Map from 'ol/Map';
 import OSM from 'ol/source/OSM';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LogLevel } from '@grafana/data';
 
 let index = 0;

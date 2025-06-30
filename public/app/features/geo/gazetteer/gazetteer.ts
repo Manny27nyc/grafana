@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, Field, FieldType, KeyValue, toDataFrame } from '@grafana/data';
 import { getBackendSrv } from '@grafana/runtime';
 import { loadWorldmapPoints } from './worldmap';

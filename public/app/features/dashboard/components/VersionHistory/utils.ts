@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { compare, Operation } from 'fast-json-patch';
 // @ts-ignore
 import jsonMap from 'json-source-map';

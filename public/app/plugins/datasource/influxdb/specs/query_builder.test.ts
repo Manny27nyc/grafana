@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { InfluxQueryBuilder } from '../query_builder';
 
 describe('InfluxQueryBuilder', () => {

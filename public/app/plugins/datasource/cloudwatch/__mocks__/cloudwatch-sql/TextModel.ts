@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { monacoTypes } from '@grafana/ui';
 
 // Stub for monacoTypes.editor.ITextModel. Only implements the parts that are used in cloudwatch sql

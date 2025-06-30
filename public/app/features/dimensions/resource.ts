@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame } from '@grafana/data';
 import { DimensionSupplier, ResourceDimensionConfig, ResourceDimensionMode } from './types';
 import { findField, getLastNotNullFieldValue } from './utils';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useState } from 'react';
 import { ViewRangeTimeUpdate, ViewRange } from '@jaegertracing/jaeger-ui-components';
 

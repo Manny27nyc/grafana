@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { each, map, includes, flatten, keys } from 'lodash';
 import TableModel from 'app/core/table_model';
 import { FieldType, QueryResultMeta, TimeSeries, TableData } from '@grafana/data';

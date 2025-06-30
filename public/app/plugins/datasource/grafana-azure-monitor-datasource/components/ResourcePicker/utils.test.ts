@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { parseResourceURI } from './utils';
 
 describe('AzureMonitor ResourcePicker utils', () => {

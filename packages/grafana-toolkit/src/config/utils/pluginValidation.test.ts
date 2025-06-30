@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getPluginJson, validatePluginJson } from './pluginValidation';
 
 describe('pluginValidation', () => {

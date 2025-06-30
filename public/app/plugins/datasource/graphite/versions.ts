@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { last } from 'lodash';
 
 export const GRAPHITE_VERSIONS = ['0.9', '1.0', '1.1'];

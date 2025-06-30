@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { textPanelMigrationHandler } from './textPanelMigrationHandler';
 import { TextMode, PanelOptions } from './models.gen';
 import { FieldConfigSource, PanelModel } from '@grafana/data';

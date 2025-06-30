@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { of } from 'rxjs';
 import { queryBuilder } from '../shared/testing/builders';
 import { FieldType, toDataFrame } from '@grafana/data';

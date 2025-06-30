@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ActiveDimensions } from '../../VizTooltip';
 import { Dimension, Dimensions, TimeZone } from '@grafana/data';
 

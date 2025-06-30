@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export class MysqlMetaQuery {
   constructor(private target: any, private queryModel: any) {}
 

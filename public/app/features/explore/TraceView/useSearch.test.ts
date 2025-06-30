@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { act, renderHook } from '@testing-library/react-hooks';
 import { useSearch } from './useSearch';
 import { TraceSpan } from '@jaegertracing/jaeger-ui-components';

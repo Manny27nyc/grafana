@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Matcher } from 'app/plugins/datasource/alertmanager/types';
 import { Labels } from '@grafana/data';
 import { parseMatcher } from './alertmanager';

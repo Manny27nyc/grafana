@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isEmpty, isString, set } from 'lodash';
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { dateTimeFormat, dateTimeFormatTimeAgo, setWeekStart, TimeZone } from '@grafana/data';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LinkModel } from '@grafana/data';
 import { MenuItemProps } from '../components/Menu/MenuItem';
 import { IconName } from '../types';

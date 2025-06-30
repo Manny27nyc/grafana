@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getMatcherQueryParams, parseQueryParamMatchers } from './matchers';
 
 describe('Unified Alerting matchers', () => {

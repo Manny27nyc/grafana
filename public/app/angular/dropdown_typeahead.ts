@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { each, reduce } from 'lodash';
 import $ from 'jquery';
 import coreModule from './core_module';

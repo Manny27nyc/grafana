@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Check to see if browser is not supported by Grafana
  * This function is copied to index-template.html but is here so we can write tests

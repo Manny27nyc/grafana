@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { each, filter, keys } from 'lodash';
 import tinycolor from 'tinycolor2';
 import {

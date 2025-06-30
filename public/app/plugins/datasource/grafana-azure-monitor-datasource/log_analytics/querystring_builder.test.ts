@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import LogAnalyticsQuerystringBuilder from './querystring_builder';
 import { dateTime } from '@grafana/data';
 

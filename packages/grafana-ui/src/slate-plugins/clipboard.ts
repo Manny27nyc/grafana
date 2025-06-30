@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Plugin } from '@grafana/slate-react';
 import { Editor as CoreEditor } from 'slate';
 

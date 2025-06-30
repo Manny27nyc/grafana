@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Registry } from '@grafana/data';
 import { getBasicValueMatchersUI } from './BasicMatcherEditor';
 import { getNoopValueMatchersUI } from './NoopMatcherEditor';

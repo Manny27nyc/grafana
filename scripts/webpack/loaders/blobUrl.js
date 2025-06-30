@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const loaderUtils = require('loader-utils');
 
 module.exports = function blobUrl(source) {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldConfigSource } from '@grafana/data';
 
 export interface VizTypeChangeDetails {

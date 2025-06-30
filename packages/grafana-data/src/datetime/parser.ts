@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable id-blacklist, no-restricted-imports, @typescript-eslint/ban-types */
 import moment, { MomentInput } from 'moment-timezone';
 import { DateTimeInput, DateTime, isDateTime } from './moment_wrapper';

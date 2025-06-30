@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BackendSrvRequest } from '@grafana/runtime';
 import { omitBy } from 'lodash';
 import { deprecationWarning } from '@grafana/data';

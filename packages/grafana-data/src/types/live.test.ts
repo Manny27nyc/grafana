@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LiveChannelScope, parseLiveChannelAddress } from './live';
 
 describe('parse address', () => {

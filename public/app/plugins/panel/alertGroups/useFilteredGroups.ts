@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { labelsMatchMatchers } from 'app/features/alerting/unified/utils/alertmanager';
 import { AlertmanagerGroup, Matcher } from 'app/plugins/datasource/alertmanager/types';
 import { useMemo } from 'react';

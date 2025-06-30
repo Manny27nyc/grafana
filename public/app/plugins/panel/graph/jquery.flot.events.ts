@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import $ from 'jquery';
 import { partition, each } from 'lodash';
 //@ts-ignore

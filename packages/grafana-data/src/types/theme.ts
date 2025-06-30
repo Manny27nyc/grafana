@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ThemeVisualizationColors } from '../themes';
 
 export enum GrafanaThemeType {

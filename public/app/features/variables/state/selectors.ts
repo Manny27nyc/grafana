@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StoreState } from '../../../types';
 import { VariableModel } from '../types';
 import { getState } from '../../../store/store';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export class Profiler {
   panelsRendered = 0;
   enabled?: boolean = undefined;

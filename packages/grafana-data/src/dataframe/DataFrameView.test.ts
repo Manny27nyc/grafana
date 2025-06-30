@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldType, DataFrameDTO } from '../types/dataFrame';
 import { DateTime } from '../datetime/moment_wrapper';
 import { MutableDataFrame } from './MutableDataFrame';

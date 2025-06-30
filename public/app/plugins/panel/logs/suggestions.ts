@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VisualizationSuggestionsBuilder, VisualizationSuggestionScore } from '@grafana/data';
 import { SuggestionName } from 'app/types/suggestions';
 import { Options } from './types';

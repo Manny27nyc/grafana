@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SemVersion, isVersionGtOrEq } from 'app/core/utils/version';
 
 describe('SemVersion', () => {

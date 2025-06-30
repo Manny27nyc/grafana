@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MssqlDatasource } from './datasource';
 import { MssqlQueryCtrl } from './query_ctrl';
 import { MssqlConfigCtrl } from './config_ctrl';

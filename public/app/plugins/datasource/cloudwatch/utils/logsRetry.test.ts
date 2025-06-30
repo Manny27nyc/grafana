@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { runWithRetry } from './logsRetry';
 import { toArray } from 'rxjs/operators';
 import { lastValueFrom, of, throwError } from 'rxjs';

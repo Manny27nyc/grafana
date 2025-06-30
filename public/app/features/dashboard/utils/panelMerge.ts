@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelModel as IPanelModel } from '@grafana/data';
 import { isEqualWith } from 'lodash';
 import { PanelModel } from '../state';

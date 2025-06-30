@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { IAngularEvent } from 'angular';
 import { AppEvent } from '@grafana/data';
 

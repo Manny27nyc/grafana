@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { omit } from 'lodash';
 import { FieldConfigSource, PanelPlugin } from '@grafana/data';
 import { PanelModel } from '../../state/PanelModel';

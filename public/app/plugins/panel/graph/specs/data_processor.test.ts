@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataProcessor } from '../data_processor';
 import { getProcessedDataFrames } from 'app/features/query/state/runRequest';
 

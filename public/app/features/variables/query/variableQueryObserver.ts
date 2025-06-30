@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observer, Subscription } from 'rxjs';
 import { LoadingState } from '@grafana/data';
 

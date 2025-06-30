@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector, Field, FieldType, MutableDataFrame, SelectableValue } from '@grafana/data';
 import {
   calculateUniqueFieldValues,

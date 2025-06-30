@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CSSObject } from '@emotion/css';
 import { GrafanaTheme, GrafanaTheme2 } from '@grafana/data';
 import tinycolor from 'tinycolor2';

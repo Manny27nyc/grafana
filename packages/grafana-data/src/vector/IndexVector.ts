@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Field, FieldType } from '../types';
 import { FunctionalVector } from './FunctionalVector';
 

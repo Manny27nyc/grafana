@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getFilteredVariables, getVariables, getVariableWithName } from '../../app/features/variables/state/selectors';
 import { StoreState } from '../../app/types';
 import { TemplateSrvDependencies } from 'app/features/templating/template_srv';

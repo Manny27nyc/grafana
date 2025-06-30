@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldConfigOptionsRegistry } from '../field/FieldConfigOptionsRegistry';
 import { standardFieldConfigEditorRegistry } from '../field/standardFieldConfigEditorRegistry';
 import { FieldConfigProperty, FieldConfigPropertyItem } from '../types/fieldOverrides';

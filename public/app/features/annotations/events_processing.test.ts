@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dedupAnnotations } from './events_processing';
 
 describe('Annotations deduplication', () => {

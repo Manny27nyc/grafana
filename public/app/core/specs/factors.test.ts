@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import getFactors from 'app/core/utils/factors';
 
 describe('factors', () => {

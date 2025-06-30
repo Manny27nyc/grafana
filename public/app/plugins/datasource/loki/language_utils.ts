@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TimeRange } from '@grafana/data';
 
 function roundMsToMin(milliseconds: number): number {

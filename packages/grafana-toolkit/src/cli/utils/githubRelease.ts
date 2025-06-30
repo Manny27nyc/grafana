@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getPluginId } from '../../config/utils/getPluginId';
 import { getPluginJson } from '../../config/utils/pluginValidation';
 import { getCiFolder } from '../../plugins/env';

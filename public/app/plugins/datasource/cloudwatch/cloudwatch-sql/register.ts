@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Monaco } from '@grafana/ui';
 import { CompletionItemProvider } from './completion/CompletionItemProvider';
 import language from './definition';

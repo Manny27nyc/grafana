@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿import { ApiKey, OrgRole } from 'app/types';
 
 export const getMultipleMockKeys = (numberOfKeys: number): ApiKey[] => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VariableOption } from 'app/features/variables/types';
 import { alignCurrentWithMulti } from './multiOptions';
 

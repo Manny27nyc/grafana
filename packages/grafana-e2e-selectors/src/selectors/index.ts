@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Pages } from './pages';
 import { Components } from './components';
 import { E2ESelectors } from '../types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSelector } from '@reduxjs/toolkit';
 import { PluginError, PluginErrorCode } from '@grafana/data';
 import { RequestStatus, PluginCatalogStoreState } from '../types';

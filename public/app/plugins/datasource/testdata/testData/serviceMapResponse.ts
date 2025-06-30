@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldColorModeId, FieldType, PreferredVisualisationType, NodeGraphDataFrameFieldNames } from '@grafana/data';
 
 export const nodes = {

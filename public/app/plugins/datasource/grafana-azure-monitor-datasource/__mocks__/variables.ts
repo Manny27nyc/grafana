@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CustomVariableModel, initialVariableModelState, VariableHide } from 'app/features/variables/types';
 
 export const subscriptionsVariable: CustomVariableModel = {

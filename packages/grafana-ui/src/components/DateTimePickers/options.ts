@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SelectableValue, TimeOption } from '@grafana/data';
 
 export const quickOptions: TimeOption[] = [

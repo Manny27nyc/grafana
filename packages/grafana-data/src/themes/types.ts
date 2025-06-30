@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaTheme } from '../types/theme';
 import { ThemeBreakpoints } from './breakpoints';
 import { ThemeComponents } from './createComponents';

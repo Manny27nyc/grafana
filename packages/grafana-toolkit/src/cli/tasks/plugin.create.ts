@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { prompt } from 'inquirer';
 import path from 'path';
 import { promptConfirm } from '../utils/prompt';

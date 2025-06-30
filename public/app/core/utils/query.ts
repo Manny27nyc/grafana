@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery, DataSourceRef } from '@grafana/data';
 
 export const getNextRefIdChar = (queries: DataQuery[]): string => {

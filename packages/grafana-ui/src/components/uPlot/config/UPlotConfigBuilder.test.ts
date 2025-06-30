@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // TODO: migrate tests below to the builder
 
 import { UPlotConfigBuilder } from './UPlotConfigBuilder';

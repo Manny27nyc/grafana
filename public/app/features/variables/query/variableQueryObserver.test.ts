@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { variableQueryObserver } from './variableQueryObserver';
 import { LoadingState } from '@grafana/data';
 import { VariableIdentifier } from '../state/types';

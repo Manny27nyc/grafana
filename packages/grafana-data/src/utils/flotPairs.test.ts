@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MutableDataFrame } from '../dataframe/MutableDataFrame';
 import { getFlotPairs, getFlotPairsConstant } from './flotPairs';
 import { TimeRange } from '../types/time';

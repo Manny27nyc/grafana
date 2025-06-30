@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { sleep, check, group } from 'k6';
 import { createClient, createBasicAuthClient } from './modules/client.js';
 import { createTestOrgIfNotExists, createTestdataDatasourceIfNotExists } from './modules/util.js';

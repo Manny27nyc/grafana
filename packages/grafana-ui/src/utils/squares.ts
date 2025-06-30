@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * This function will calculate how many squares we can fit inside a rectangle.
  * Please have a look at this post for more details about the implementation:

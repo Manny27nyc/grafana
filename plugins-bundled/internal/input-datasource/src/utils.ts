@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame, DataFrameDTO, toCSV } from '@grafana/data';
 
 export function dataFrameToCSV(dto?: DataFrameDTO[]) {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldCache } from './FieldCache';
 import { FieldType } from '../types/dataFrame';
 import { toDataFrame } from './processDataFrame';

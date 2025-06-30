@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cleanValue, findSelectedValue } from './utils';
 import { SelectableOptGroup } from './types';
 import { SelectableValue } from '@grafana/data';

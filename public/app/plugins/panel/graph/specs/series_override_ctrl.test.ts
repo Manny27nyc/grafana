@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SeriesOverridesCtrl } from '../series_overrides_ctrl';
 
 describe('SeriesOverridesCtrl', () => {

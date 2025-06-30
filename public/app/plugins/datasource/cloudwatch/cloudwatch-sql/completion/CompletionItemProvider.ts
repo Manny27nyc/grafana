@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { Monaco, monacoTypes } from '@grafana/ui';
 import { getTemplateSrv, TemplateSrv } from '@grafana/runtime';
 import { uniq } from 'lodash';

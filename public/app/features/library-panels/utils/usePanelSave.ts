@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';
 import useAsyncFn from 'react-use/lib/useAsyncFn';

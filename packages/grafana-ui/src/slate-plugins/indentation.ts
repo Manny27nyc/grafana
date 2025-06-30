@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RangeJSON, Range as SlateRange, Editor as CoreEditor } from 'slate';
 import { Plugin } from '@grafana/slate-react';
 import { isKeyHotkey } from 'is-hotkey';

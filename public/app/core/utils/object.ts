@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿import { isArray, isPlainObject } from 'lodash';
 
 /** @returns a deep clone of the object, but with any null value removed */

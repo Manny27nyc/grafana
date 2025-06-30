@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toString, isEmpty } from 'lodash';
 
 import { getDisplayProcessor } from './displayProcessor';

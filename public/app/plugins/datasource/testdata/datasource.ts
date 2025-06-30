@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { from, merge, Observable, of } from 'rxjs';
 import { delay } from 'rxjs/operators';
 

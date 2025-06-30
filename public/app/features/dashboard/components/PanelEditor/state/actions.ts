@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DashboardModel, PanelModel } from '../../../state';
 import { ThunkResult } from 'app/types';
 import {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import GraphiteQuery, { GraphiteTarget } from '../graphite_query';
 import { GraphiteSegment, GraphiteTagOperator } from '../types';
 import { GraphiteDatasource } from '../datasource';

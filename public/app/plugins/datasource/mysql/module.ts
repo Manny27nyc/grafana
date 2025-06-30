@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MysqlDatasource } from './datasource';
 import { MysqlQueryCtrl } from './query_ctrl';
 import {

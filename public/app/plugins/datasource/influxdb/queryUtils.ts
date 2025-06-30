@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cloneDeep } from 'lodash';
 import InfluxQueryModel from './influx_query_model';
 import { InfluxQuery } from './types';

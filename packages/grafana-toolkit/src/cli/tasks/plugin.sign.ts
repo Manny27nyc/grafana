@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import path from 'path';
 import { buildManifest, signManifest, saveManifest } from '../../plugins/manifest';
 import { Task, TaskRunner } from './task';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/env python
 #
 # Creates .wxs files to be used to generate multiple MSI targets

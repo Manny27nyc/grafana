@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { deprecationWarning } from './deprecationWarning';
 
 test('It should not output deprecation warnings too often', () => {

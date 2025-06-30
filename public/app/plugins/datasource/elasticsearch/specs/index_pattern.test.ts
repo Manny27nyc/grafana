@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ///<amd-dependency path="test/specs/helpers" name="helpers" />
 
 import { IndexPattern } from '../index_pattern';

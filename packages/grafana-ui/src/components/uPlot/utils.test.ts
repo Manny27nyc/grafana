@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { orderIdsByCalcs, preparePlotData, timeFormatToTemplate } from './utils';
 import { FieldType, MutableDataFrame } from '@grafana/data';
 import { StackingMode } from '@grafana/schema';

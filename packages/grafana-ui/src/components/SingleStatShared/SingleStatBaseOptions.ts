@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cloneDeep, isNumber, omit } from 'lodash';
 
 import { OptionsWithTextFormatting } from '@grafana/schema';

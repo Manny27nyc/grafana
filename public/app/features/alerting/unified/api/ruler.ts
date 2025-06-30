@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { lastValueFrom } from 'rxjs';
 import { FetchResponse, getBackendSrv } from '@grafana/runtime';
 

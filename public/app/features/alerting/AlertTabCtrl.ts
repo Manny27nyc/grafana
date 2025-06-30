@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { find, map, reduce, remove } from 'lodash';
 import coreModule from 'app/angular/core_module';
 import { ThresholdMapper } from './state/ThresholdMapper';

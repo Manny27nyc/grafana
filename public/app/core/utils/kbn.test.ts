@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import kbn from './kbn';
 import { DecimalCount, TimeZone } from '@grafana/data';
 

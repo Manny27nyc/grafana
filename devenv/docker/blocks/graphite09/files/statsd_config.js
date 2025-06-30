@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 {
   graphitePort: 2003,
   graphiteHost: "127.0.0.1",

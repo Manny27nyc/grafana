@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // @ts-ignore
 import configureMockStore from 'redux-mock-store';
 import { PlaylistSrv } from './PlaylistSrv';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import memoizeOne from 'memoize-one';
 import { PanelPlugin } from '@grafana/data';
 import { PanelEditorTab, PanelEditorTabId } from '../types';

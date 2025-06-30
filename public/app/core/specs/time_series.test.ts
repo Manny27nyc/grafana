@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import TimeSeries, { updateLegendValues } from 'app/core/time_series2';
 
 describe('TimeSeries', () => {

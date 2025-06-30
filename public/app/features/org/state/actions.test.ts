@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { updateOrganization, setUserOrganization, getUserOrganizations } from './actions';
 import { updateConfigurationSubtitle } from 'app/core/actions';
 import { thunkTester } from 'test/core/thunk/thunkTester';

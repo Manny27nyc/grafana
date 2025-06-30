@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { e2e } from '@grafana/e2e';
 
 const PAGE_UNDER_TEST = 'AejrN1AMz';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, ensureTimeField, Field, FieldType } from '@grafana/data';
 import { StackingMode, VizLegendOptions } from '@grafana/schema';
 import { orderBy } from 'lodash';

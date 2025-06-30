@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getMessageFromError } from 'app/core/utils/errors';
 
 describe('errors functions', () => {

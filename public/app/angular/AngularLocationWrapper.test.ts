@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AngularLocationWrapper } from './AngularLocationWrapper';
 import { HistoryWrapper, locationService, setLocationService } from '@grafana/runtime';
 

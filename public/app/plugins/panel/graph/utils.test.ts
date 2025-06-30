@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame, FieldType } from '@grafana/data';
 import { getDataTimeRange } from './utils';
 

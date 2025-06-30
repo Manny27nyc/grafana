@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { includes, filter } from 'lodash';
 import { rangeUtil } from '@grafana/data';
 

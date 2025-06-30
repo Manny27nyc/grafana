@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { find, get } from 'lodash';
 import TimeGrainConverter from '../time_grain_converter';
 import {

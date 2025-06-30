@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getEchoSrv, EchoEventType } from '@grafana/runtime';
 import { captureException } from '@sentry/browser';
 import { PerformanceEvent } from './backends/PerformanceBackend';

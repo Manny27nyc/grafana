@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { vectorToArray } from './vectorToArray';
 import { Vector } from '../types';
 

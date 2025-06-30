@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { throwError } from 'rxjs';
 import { delay } from 'rxjs/operators';
 import { setDataSourceSrv } from '@grafana/runtime';

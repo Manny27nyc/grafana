@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getDefaultTimeRange } from '@grafana/data';
 
 import { LegacyAnnotationQueryRunner } from './LegacyAnnotationQueryRunner';

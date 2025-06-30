@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // @ts-ignore
 import baron from 'baron';
 import { PanelEvents } from '@grafana/data';

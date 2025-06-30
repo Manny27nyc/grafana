@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export enum DataTransformerID {
   // join = 'join', // Pick a field and merge all series based on that field
   append = 'append',

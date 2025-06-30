@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DashboardModel } from './DashboardModel';
 import { appEvents } from '../../../core/core';
 import { VariablesChanged } from '../../variables/types';

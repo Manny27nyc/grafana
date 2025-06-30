@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { constantBuilder, customBuilder } from '../shared/testing/builders';
 import { getNextAvailableId } from './actions';
 

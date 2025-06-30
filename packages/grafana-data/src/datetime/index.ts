@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Names are too general to export globally
 import * as dateMath from './datemath';
 import * as rangeUtil from './rangeutil';

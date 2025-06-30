@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQueryError, DataQueryResponseData } from './datasource';
 import { AngularPanelMenuItem } from './panel';
 import { DataFrame } from './dataFrame';

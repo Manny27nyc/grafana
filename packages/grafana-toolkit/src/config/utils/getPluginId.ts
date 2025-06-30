@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import path from 'path';
 
 let PLUGIN_ID: string;

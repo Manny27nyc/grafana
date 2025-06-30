@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createRootReducer, recursiveCleanState } from './root';
 import { describe, expect } from '../../../test/lib/common';
 import { reducerTester } from '../../../test/core/redux/reducerTester';

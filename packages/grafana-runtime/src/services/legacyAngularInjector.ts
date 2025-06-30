@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { auto } from 'angular';
 
 let singleton: auto.IInjectorService;

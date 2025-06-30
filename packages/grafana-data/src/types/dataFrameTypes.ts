@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * See also:
  * https://github.com/grafana/grafana-plugin-sdk-go/blob/main/data/frame_type.go

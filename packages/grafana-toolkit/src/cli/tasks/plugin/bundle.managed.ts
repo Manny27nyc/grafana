@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { promises as fs } from 'fs';
 import { Task, TaskRunner } from '../task';
 import execa = require('execa');

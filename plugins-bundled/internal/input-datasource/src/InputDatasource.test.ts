@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import InputDatasource, { describeDataFrame } from './InputDatasource';
 import { InputOptions, InputQuery } from './types';
 import {

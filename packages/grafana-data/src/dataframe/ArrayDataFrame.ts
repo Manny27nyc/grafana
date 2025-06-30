@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Field, FieldType, DataFrame } from '../types/dataFrame';
 import { vectorToArray } from '../vector/vectorToArray';
 import { Vector, QueryResultMeta } from '../types';

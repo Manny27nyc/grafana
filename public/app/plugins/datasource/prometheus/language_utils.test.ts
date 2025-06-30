@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AbstractLabelOperator, AbstractQuery } from '@grafana/data';
 import {
   escapeLabelValueInExactSelector,

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import $ from 'jquery';
 // @ts-ignore
 import baron from 'baron';

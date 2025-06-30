@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const NO_ID_SECTIONS = ['Recent', 'Starred'];
 // Height of the search result item
 export const SEARCH_ITEM_HEIGHT = 58;

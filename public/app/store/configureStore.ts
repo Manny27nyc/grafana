@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { configureStore as reduxConfigureStore } from '@reduxjs/toolkit';
 import { setStore } from './store';
 import { StoreState } from 'app/types/store';

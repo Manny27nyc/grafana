@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Labels } from './data';
 import { DataFrame } from './dataFrame';
 import { DataQuery } from './query';

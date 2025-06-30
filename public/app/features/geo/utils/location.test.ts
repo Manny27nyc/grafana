@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame, FieldType, FrameGeometrySourceMode } from '@grafana/data';
 import { Point } from 'ol/geom';
 import { toLonLat } from 'ol/proj';

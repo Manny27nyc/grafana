@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ThunkResult } from 'app/types';
 import { getBackendSrv } from '@grafana/runtime';
 import { organizationLoaded, userOrganizationsLoaded } from './reducers';

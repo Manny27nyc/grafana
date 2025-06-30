@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { reduceField, ReducerID, getFieldDisplayName, DataFrame, FieldType, DataFrameJSON } from '@grafana/data';
 import { StreamingFrameAction, StreamingFrameOptions } from '@grafana/runtime';
 import { getStreamingFrameOptions, StreamingDataFrame } from './StreamingDataFrame';

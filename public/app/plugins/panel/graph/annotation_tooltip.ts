@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isString, escape } from 'lodash';
 import $ from 'jquery';
 import coreModule from 'app/angular/core_module';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LinkedToken } from './LinkedToken';
 import { FROM, SCHEMA, SELECT } from '../language';
 import { TokenType } from './types';

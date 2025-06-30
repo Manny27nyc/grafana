@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * A library for writing end-to-end tests for Grafana and its ecosystem.
  *

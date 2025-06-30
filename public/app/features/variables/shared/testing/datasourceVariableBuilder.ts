@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MultiVariableBuilder } from './multiVariableBuilder';
 import { DataSourceVariableModel, VariableRefresh } from 'app/features/variables/types';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentType } from 'react';
 import { RegistryItem } from '@grafana/data';
 import { Anchor, BackgroundConfig, LineConfig, Placement } from './types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import angular from 'angular';
 
 const coreModule = angular.module('grafana.core', ['ngRoute']);

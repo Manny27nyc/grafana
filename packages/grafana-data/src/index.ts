@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * A library containing most of the core functionality and data types used in Grafana.
  *

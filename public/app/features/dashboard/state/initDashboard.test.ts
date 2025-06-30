@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Subject } from 'rxjs';
 import configureMockStore from 'redux-mock-store';
 import thunk from 'redux-thunk';

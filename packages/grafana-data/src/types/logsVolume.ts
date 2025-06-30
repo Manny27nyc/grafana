@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery } from './query';
 import { DataQueryRequest, DataQueryResponse } from './datasource';
 import { Observable } from 'rxjs';

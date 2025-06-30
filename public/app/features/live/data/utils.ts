@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQueryResponseData, isDataFrame } from '@grafana/data';
 import { StreamingDataFrame } from './StreamingDataFrame';
 

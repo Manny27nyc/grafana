@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataTransformerID } from './ids';
 import { DataTransformerInfo } from '../../types/transformations';
 

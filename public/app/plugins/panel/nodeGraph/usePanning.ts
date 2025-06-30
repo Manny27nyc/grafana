@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useRef, RefObject, useState, useMemo } from 'react';
 import useMountedState from 'react-use/lib/useMountedState';
 import { Bounds } from './utils';

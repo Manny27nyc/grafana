@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable } from 'rxjs';
 import { ComponentType } from 'react';
 import { GrafanaPlugin, PluginMeta } from './plugin';

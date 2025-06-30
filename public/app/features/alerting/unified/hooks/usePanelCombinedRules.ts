@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SerializedError } from '@reduxjs/toolkit';
 import { DashboardModel, PanelModel } from 'app/features/dashboard/state';
 import { CombinedRule } from 'app/types/unified-alerting';

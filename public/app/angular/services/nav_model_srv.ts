@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import coreModule from 'app/angular/core_module';
 import config from 'app/core/config';
 import { find, isNumber } from 'lodash';

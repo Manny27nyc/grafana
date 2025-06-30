@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { localTimeFormat } from './formats';
 
 describe('Date Formats', () => {

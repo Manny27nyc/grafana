@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createColors } from './createColors';
 import { createVisualizationColors } from './createVisualizationColors';
 

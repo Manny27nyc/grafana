@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnyAction, combineReducers } from 'redux';
 import { CleanUp, cleanUpAction } from '../actions/cleanUp';
 import sharedReducers from 'app/core/reducers';

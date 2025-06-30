@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PluginMeta } from '@grafana/data';
 
 export const validatePluginJson = (pluginJson: any) => {

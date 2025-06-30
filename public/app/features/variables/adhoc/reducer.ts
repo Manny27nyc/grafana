@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { DataSourceRef } from '@grafana/data';
 

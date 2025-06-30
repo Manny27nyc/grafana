@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { findIndex, isObject, map } from 'lodash';
 import flatten from 'app/core/utils/flatten';
 import TimeSeries from 'app/core/time_series2';

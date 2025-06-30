@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { contextSrv } from 'app/core/services/context_srv';
 import { isGrafanaRulerRule } from '../utils/rules';
 import { RulerRuleDTO } from 'app/types/unified-alerting-dto';

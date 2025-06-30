@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GraphCtrl } from '../module';
 import { MetricsPanelCtrl } from 'app/angular/panel/metrics_panel_ctrl';
 import { PanelCtrl } from 'app/angular/panel/panel_ctrl';

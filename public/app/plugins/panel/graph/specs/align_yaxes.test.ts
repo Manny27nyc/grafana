@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { alignYLevel } from '../align_yaxes';
 
 describe('Graph Y axes aligner', () => {

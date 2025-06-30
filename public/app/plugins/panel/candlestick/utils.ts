@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VizDisplayMode, ColorStrategy, CandleStyle } from './models.gen';
 import uPlot from 'uplot';
 import { colorManipulator } from '@grafana/data';

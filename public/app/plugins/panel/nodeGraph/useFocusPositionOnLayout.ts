@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import usePrevious from 'react-use/lib/usePrevious';
 import { Config } from './layout';
 import { NodeDatum } from './types';

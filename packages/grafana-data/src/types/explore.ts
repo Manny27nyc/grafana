@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery } from './query';
 import { RawTimeRange, TimeRange } from './time';
 

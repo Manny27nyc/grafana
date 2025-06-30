@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Task, TaskRunner } from './task';
 import GithubClient from '../utils/githubClient';
 

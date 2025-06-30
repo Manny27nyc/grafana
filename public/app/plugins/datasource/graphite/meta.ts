@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MetricTankSeriesMeta } from './types';
 import { QueryResultMetaNotice } from '@grafana/data';
 

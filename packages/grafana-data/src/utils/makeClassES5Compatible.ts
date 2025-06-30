@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @beta
  * Proxies a ES6 class so that it can be used as a base class for an ES5 class

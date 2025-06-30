@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { buildParams } from './utils';
 import { TimeRange } from '@grafana/data';
 

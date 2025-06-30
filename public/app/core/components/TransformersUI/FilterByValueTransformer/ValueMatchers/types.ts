@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Field, RegistryItem } from '@grafana/data';
 export interface ValueMatcherUIRegistryItem<TOptions> extends RegistryItem {
   component: React.ComponentType<ValueMatcherUIProps<TOptions>>;

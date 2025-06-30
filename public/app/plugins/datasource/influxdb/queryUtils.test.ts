@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cloneDeep } from 'lodash';
 import { InfluxQuery } from './types';
 import { buildRawQuery, normalizeQuery, changeSelectPart, changeGroupByPart } from './queryUtils';

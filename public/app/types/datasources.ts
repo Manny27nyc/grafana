@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourcePluginMeta, DataSourceSettings, LayoutMode } from '@grafana/data';
 import { GenericDataSourcePlugin } from 'app/features/datasources/settings/PluginSettings';
 import { HealthCheckResultDetails } from '@grafana/runtime/src/utils/DataSourceWithBackend';

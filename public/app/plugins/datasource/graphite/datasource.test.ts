@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GraphiteDatasource } from './datasource';
 import { isArray } from 'lodash';
 

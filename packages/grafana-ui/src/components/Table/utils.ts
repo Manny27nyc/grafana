@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Row } from 'react-table';
 import memoizeOne from 'memoize-one';
 import { Property } from 'csstype';

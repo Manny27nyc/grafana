@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Action, createAction } from '@reduxjs/toolkit';
 import { ElasticsearchQuery } from '../../types';
 

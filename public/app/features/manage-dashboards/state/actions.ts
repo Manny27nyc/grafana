@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AppEvents, DataSourceInstanceSettings, locationUtil } from '@grafana/data';
 import {
   clearDashboard,

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { monacoTypes } from '@grafana/ui';
 
 import language from '../definition';

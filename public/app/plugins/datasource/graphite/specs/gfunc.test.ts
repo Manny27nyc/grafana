@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import gfunc from '../gfunc';
 
 describe('when creating func instance from func names', () => {

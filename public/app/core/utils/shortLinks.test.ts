@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createShortLink, createAndCopyShortLink } from './shortLinks';
 
 jest.mock('@grafana/runtime', () => ({

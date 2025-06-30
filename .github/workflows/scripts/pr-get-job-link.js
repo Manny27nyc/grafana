@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 
 module.exports = async ({ github, context, core }) => {
     const { owner, repo } = context.repo;

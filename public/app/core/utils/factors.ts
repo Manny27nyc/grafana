@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Returns the factors of a number
 // Example getFactors(12) -> [1, 2, 3, 4, 6, 12]
 export default function getFactors(num: number): number[] {

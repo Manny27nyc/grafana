@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { clone, each, map } from 'lodash';
 
 export class QueryPartDef {

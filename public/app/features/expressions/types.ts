@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery, ReducerID, SelectableValue } from '@grafana/data';
 import { EvalFunction } from '../alerting/state/alertDef';
 

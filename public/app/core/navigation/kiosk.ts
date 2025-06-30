@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AppEvents, UrlQueryValue } from '@grafana/data';
 import { locationService } from '@grafana/runtime';
 import appEvents from '../app_events';

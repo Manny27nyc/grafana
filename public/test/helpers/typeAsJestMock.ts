@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* type a mocked function as jest mock, example:
  * import { doFoo } from 'foo';
  *

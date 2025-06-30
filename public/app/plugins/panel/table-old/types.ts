@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import TableModel from 'app/core/table_model';
 import { Column } from '@grafana/data';
 

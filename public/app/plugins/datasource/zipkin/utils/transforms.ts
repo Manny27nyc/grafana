@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { identity } from 'lodash';
 import { ZipkinAnnotation, ZipkinEndpoint, ZipkinSpan } from '../types';
 import { DataFrame, FieldType, MutableDataFrame, TraceKeyValuePair, TraceLog, TraceSpanRow } from '@grafana/data';

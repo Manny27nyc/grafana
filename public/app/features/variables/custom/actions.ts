@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { validateVariableSelectionState } from '../state/actions';
 import { ThunkResult } from 'app/types';
 import { createCustomOptionsFromQuery } from './reducer';

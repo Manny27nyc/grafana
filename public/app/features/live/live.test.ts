@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaLiveService } from './live';
 import { StreamingDataQueryResponse } from './centrifuge/service';
 import { Subject } from 'rxjs';

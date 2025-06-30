@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EventBusSrv } from './EventBus';
 import { BusEvent, BusEventWithPayload } from './types';
 import { eventFactory } from './eventFactory';

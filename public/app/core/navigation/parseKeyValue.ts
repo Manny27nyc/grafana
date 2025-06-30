@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // tslint:disable
 // Most of this file is just a copy of some content from
 // https://github.com/angular/angular.js/blob/937fb891fa4fcf79e9fa02f8e0d517593e781077/src/Angular.js

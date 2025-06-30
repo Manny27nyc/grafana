@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Grammar } from 'prismjs';
 import { CompletionItem } from '@grafana/ui';
 

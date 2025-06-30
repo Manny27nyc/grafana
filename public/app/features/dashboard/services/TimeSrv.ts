@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cloneDeep, extend, isString } from 'lodash';
 import {
   dateMath,

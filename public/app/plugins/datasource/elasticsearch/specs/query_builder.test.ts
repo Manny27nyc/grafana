@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { gte, lt } from 'semver';
 import { ElasticQueryBuilder } from '../query_builder';
 import { ElasticsearchQuery } from '../types';

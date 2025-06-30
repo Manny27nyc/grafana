@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TimeRange } from '../types/time';
 import { dateTime, rangeUtil } from './index';
 import { timeRangeToRelative } from './rangeutil';

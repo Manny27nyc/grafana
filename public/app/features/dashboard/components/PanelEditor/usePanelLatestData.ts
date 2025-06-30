@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQueryError, LoadingState, PanelData } from '@grafana/data';
 import { useEffect, useRef, useState } from 'react';
 import { PanelModel } from '../../state';

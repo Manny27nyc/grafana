@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DashboardAcl, DashboardAclDTO } from 'app/types/acl';
 
 export function processAclItems(items: DashboardAclDTO[]): DashboardAcl[] {

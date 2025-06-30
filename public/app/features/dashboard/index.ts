@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Services
 import './services/DashboardLoaderSrv';
 import './services/DashboardSrv';

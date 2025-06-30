@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Services & Utils
 import { importDataSourcePlugin } from './plugin_loader';
 import {

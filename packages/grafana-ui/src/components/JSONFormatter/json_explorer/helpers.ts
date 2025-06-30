@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Based on work https://github.com/mohsen1/json-formatter-js
 // License MIT, Copyright (c) 2015 Mohsen Azimi
 

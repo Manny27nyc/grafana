@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export enum SuggestionName {
   LineChart = 'Line chart',
   LineChartSmooth = 'Line chart smooth',

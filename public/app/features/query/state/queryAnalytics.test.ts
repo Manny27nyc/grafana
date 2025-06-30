@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MetaAnalyticsEventName, reportMetaAnalytics } from '@grafana/runtime';
 import { CoreApp, DataQueryRequest, DataSourceApi, dateTime, LoadingState, PanelData } from '@grafana/data';
 import { emitDataRequestEvent } from './queryAnalytics';

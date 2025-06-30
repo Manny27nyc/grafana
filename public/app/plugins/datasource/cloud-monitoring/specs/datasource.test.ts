@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { of, throwError } from 'rxjs';
 import { DataSourceInstanceSettings, toUtc } from '@grafana/data';
 

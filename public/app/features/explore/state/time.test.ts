@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dateTime, LoadingState } from '@grafana/data';
 
 import { makeExplorePaneState } from './utils';

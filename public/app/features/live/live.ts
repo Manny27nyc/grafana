@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BackendSrv, GrafanaLiveSrv, toDataQueryResponse } from '@grafana/runtime';
 import { CentrifugeSrv, StreamingDataQueryResponse } from './centrifuge/service';
 

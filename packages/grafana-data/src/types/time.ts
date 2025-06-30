@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dateTime, DateTime } from '../datetime/moment_wrapper';
 
 export interface RawTimeRange {

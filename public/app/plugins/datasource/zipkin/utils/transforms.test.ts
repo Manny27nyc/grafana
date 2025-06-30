@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { transformResponse, transformToZipkin } from './transforms';
 import { traceFrameFields, zipkinResponse } from './testData';
 import { MutableDataFrame } from '@grafana/data';

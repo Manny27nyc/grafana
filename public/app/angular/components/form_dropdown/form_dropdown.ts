@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { debounce, find, indexOf, map, isObject, escape, unescape } from 'lodash';
 import coreModule from '../../core_module';
 import { ISCEService } from 'angular';

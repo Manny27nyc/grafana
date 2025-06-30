@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { UrlQueryMap } from '@grafana/data';
 import { locationSearchToObject, locationService } from '@grafana/runtime';
 import { useCallback, useMemo } from 'react';

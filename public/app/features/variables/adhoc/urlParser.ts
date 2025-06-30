@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AdHocVariableFilter } from 'app/features/variables/types';
 import { UrlQueryValue } from '@grafana/data';
 import { isArray, isString } from 'lodash';

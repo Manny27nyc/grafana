@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceInstanceSettings, DataSourceJsonData, DataSourceSettings, TableData } from '@grafana/data';
 import Datasource from '../datasource';
 

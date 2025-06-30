@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PluginSignatureType, PluginType } from '@grafana/data';
 import { RemotePlugin } from '../types';
 

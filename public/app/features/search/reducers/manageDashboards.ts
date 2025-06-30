@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DashboardSection, DashboardSectionItem, SearchAction } from '../types';
 import { TOGGLE_ALL_CHECKED, TOGGLE_CHECKED, MOVE_ITEMS, DELETE_ITEMS } from './actionTypes';
 import { dashboardsSearchState, DashboardsSearchState, searchReducer } from './dashboardSearch';

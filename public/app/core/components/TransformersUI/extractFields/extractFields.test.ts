@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame } from '@grafana/data/src/dataframe/processDataFrame';
 import { ExtractFieldsOptions, extractFieldsTransformer } from './extractFields';
 

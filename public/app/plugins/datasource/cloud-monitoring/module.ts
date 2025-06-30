@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourcePlugin } from '@grafana/data';
 import CloudMonitoringDatasource from './datasource';
 import { QueryEditor } from './components/QueryEditor';

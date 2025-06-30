@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaTheme2, createTheme } from '@grafana/data';
 //@ts-ignore
 import { create } from '@storybook/theming';

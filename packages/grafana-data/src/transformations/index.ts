@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './matchers/ids';
 export * from './transformers/ids';
 export * from './matchers';

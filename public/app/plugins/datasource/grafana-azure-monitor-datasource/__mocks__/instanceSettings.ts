@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourcePluginMeta } from '@grafana/data';
 import { AzureDataSourceInstanceSettings } from '../types';
 

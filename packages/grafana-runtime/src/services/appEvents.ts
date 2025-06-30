@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { BusEventBase, BusEventWithPayload, EventBus, GrafanaTheme2, PanelModel, TimeRange } from '@grafana/data';
 
 /**

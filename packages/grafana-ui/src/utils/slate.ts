@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Block, Document, Text, Value, SchemaProperties } from 'slate';
 
 export const SCHEMA: SchemaProperties = {

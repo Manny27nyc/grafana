@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceSettings } from '@grafana/data';
 import { config } from '@grafana/runtime';
 import { AzureCloud, AzureCredentials, ConcealedSecret } from './AzureCredentials';

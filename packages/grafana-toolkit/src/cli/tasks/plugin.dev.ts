@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Task, TaskRunner } from './task';
 import { bundlePlugin as bundleFn, PluginBundleOptions } from './plugin/bundle';
 import { useSpinner } from '../utils/useSpinner';

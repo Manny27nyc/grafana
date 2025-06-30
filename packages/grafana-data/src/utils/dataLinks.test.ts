@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { mapInternalLinkToExplore } from './dataLinks';
 import { FieldType } from '../types';
 import { ArrayVector } from '../vector';

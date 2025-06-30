@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Subject } from 'rxjs';
 
 import { FetchQueue, FetchQueueUpdate, FetchStatus } from './FetchQueue';

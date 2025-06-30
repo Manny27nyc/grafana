@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { UsersState } from 'app/types';
 
 export const getUsers = (state: UsersState) => {

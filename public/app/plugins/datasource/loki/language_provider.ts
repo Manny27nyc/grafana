@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Libraries
 import { chain, difference } from 'lodash';
 import LRU from 'lru-cache';

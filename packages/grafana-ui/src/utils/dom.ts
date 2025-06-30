@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Node.closest() polyfill
 if ('Element' in window && !Element.prototype.closest) {
   Element.prototype.closest = function (this: any, s: string) {

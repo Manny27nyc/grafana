@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createAction } from '@reduxjs/toolkit';
 import { variableAdapters } from '../adapters';
 import { sharedReducer } from './sharedReducer';

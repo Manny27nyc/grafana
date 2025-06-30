@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DashboardSearchHit } from 'app/features/search/types';
 import { LoadingState } from '@grafana/data';
 import { AnyAction } from 'redux';

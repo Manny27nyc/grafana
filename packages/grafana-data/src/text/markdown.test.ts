@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { renderMarkdown } from './markdown';
 import { sanitizeTextPanelContent } from './sanitize';
 

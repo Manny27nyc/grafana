@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector } from './ArrayVector';
 import { BinaryOperationVector } from './BinaryOperationVector';
 import { ConstantVector } from './ConstantVector';

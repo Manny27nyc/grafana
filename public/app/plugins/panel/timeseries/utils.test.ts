@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createTheme, FieldType, MutableDataFrame, toDataFrame } from '@grafana/data';
 import { prepareGraphableFields } from './utils';
 

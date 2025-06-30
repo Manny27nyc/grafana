@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Field, DataFrame, FieldType, guessFieldTypeForField } from '../index';
 
 export interface FieldWithIndex extends Field {

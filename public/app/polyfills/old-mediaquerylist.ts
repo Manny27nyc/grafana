@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Safari < 14 does not have mql.addEventListener(), but uses the old spec mql.addListener()
 
 let oMatchMedia = window.matchMedia;

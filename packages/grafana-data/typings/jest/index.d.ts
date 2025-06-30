@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable } from 'rxjs';
 
 type ObservableType<T> = T extends Observable<infer V> ? V : never;

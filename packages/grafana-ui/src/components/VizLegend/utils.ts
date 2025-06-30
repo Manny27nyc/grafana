@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SeriesVisibilityChangeMode } from '..';
 
 export function mapMouseEventToMode(event: React.MouseEvent): SeriesVisibilityChangeMode {

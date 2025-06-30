@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { SearchResults } from './components/SearchResults';
 export { SearchField } from './components/SearchField';
 export { SearchItem } from './components/SearchItem';

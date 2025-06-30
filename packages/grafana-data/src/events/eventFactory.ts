@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AppEvent } from './types';
 
 const typeList: Set<string> = new Set();

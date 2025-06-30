@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { findInsertIndex } from './suggestions';
 
 describe('Check suggestion index', () => {

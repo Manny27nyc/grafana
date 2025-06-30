@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //@ts-ignore
 import concurrently from 'concurrently';
 import { Task, TaskRunner } from './task';

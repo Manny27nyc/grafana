@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable, Subscription } from 'rxjs';
 import { FetchError, toDataQueryResponse } from '@grafana/runtime';
 import { StartQueryRequest } from '../types';

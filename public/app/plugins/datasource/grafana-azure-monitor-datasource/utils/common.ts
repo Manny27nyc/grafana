@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { map } from 'lodash';
 import { rangeUtil } from '@grafana/data';
 import TimegrainConverter from '../time_grain_converter';

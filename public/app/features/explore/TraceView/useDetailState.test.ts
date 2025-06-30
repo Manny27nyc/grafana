@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { act, renderHook } from '@testing-library/react-hooks';
 import { useDetailState } from './useDetailState';
 import { TraceLog } from '@jaegertracing/jaeger-ui-components/src/types/trace';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery, DataSourceRef, DataTransformerConfig } from '@grafana/data';
 import { DataSourceSrv } from '@grafana/runtime';
 

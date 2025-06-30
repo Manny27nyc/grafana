@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { ReactElement } from 'react';
 
 /** Returns the ID value of the first, and only, child element  */

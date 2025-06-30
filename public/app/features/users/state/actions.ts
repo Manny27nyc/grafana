@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AccessControlAction, ThunkResult } from '../../../types';
 import { getBackendSrv } from '@grafana/runtime';
 import { OrgUser } from 'app/types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { seriesToColumnsTransformer } from './seriesToColumns';
 import { DataFrame } from '../../types/dataFrame';
 import { getTimeField } from '../../dataframe/processDataFrame';

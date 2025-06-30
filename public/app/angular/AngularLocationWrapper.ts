@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { locationSearchToObject, locationService, navigationLogger } from '@grafana/runtime';
 import { deprecationWarning, urlUtil } from '@grafana/data';
 

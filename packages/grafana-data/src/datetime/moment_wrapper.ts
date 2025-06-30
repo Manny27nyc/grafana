@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TimeZone } from '../types/time';
 /* eslint-disable id-blacklist, no-restricted-imports, @typescript-eslint/ban-types */
 import moment, { Moment, MomentInput, DurationInputArg1, DurationInputArg2 } from 'moment';

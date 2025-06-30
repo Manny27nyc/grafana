@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createContext, useCallback, useContext } from 'react';
 import { Action } from '@reduxjs/toolkit';
 

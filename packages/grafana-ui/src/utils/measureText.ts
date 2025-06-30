@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const context = document.createElement('canvas').getContext('2d')!;
 const cache = new Map<string, TextMetrics>();
 const cacheLimit = 500;

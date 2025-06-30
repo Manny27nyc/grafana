@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Fill, RegularShape, Stroke, Circle, Style, Icon, Text } from 'ol/style';
 import { Registry, RegistryItem } from '@grafana/data';
 import { defaultStyleConfig, DEFAULT_SIZE, StyleConfigValues, StyleMaker } from './types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ScopedVars, VariableModel } from '@grafana/data';
 import { variableRegex } from '../variables/utils';
 import { TemplateSrv } from '@grafana/runtime';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * AngularStrap - Twitter Bootstrap directives for AngularJS
  * @version v0.7.5 - 2013-07-21

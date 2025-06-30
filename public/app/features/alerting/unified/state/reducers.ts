@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { combineReducers } from 'redux';
 import { createAsyncMapSlice, createAsyncSlice } from '../utils/redux';
 import {

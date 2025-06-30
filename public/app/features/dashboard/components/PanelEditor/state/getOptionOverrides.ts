@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, FieldConfigPropertyItem, FieldConfigSource } from '@grafana/data';
 import { get as lodashGet } from 'lodash';
 import { OptionPaneItemOverrideInfo } from '../types';

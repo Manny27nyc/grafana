@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getPanelEditorTabs } from './selectors';
 import { PanelPlugin } from '@grafana/data';
 import { PanelEditorTabId } from '../types';

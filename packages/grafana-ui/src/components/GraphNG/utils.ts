@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { XYFieldMatchers } from './types';
 import { ArrayVector, DataFrame, FieldConfig, FieldType, outerJoinDataFrames } from '@grafana/data';
 import { nullToUndefThreshold } from './nullToUndefThreshold';

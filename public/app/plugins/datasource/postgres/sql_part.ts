@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SqlPartDef, SqlPart } from 'app/angular/components/sql_part/sql_part';
 
 const index: any[] = [];

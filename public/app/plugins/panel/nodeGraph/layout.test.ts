@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { renderHook } from '@testing-library/react-hooks';
 import { useLayout } from './layout';
 import { EdgeDatum, NodeDatum } from './types';

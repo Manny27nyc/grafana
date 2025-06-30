@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { css } from '@emotion/react';
 import { GrafanaTheme2, ThemeTypographyVariant } from '@grafana/data';
 import { getFocusStyles } from '../mixins';

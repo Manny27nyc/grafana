@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { concat, filter, find, forEach, indexOf, intersection, isObject, map, without, keys as _keys } from 'lodash';
 import { dateTime } from '@grafana/data';
 

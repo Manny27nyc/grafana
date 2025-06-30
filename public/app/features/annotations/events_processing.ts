@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { concat, every, find, groupBy, head, map, partition } from 'lodash';
 
 export function dedupAnnotations(annotations: any) {

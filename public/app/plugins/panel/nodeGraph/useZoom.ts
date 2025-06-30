@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useEffect, useRef, useState } from 'react';
 
 const defaultOptions: Options = {

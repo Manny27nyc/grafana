@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnyAction } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
 

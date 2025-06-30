@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const LOCATION_DISPLAY_NAMES = {
   eastus: 'East US',
   eastus2: 'East US 2',

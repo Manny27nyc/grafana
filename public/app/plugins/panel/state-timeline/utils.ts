@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import { XYFieldMatchers } from '@grafana/ui/src/components/GraphNG/types';
 import {

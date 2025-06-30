@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PluginError, PluginMeta, PanelPlugin } from '@grafana/data';
 import { TemplateSrv } from '@grafana/runtime';
 

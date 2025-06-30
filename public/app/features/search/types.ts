@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Dispatch } from 'react';
 import { Action } from 'redux';
 import { SelectableValue } from '@grafana/data';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { css } from '@emotion/css';
 import { config } from 'app/core/config';
 import { stylesFactory } from '@grafana/ui';

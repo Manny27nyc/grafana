@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RefObject, useRef } from 'react';
 
 export function useFocus(): [RefObject<HTMLInputElement>, () => void] {

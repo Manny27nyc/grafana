@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable no-console */
 import { Task } from '../tasks/task';
 import chalk from 'chalk';

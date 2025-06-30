@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getSearchQuery, getAlertRuleItems } from './selectors';
 
 describe('Get search query', () => {

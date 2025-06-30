@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // https://nodejs.org/api/os.html#os_os_platform
 enum Platform {
   osx = 'darwin',

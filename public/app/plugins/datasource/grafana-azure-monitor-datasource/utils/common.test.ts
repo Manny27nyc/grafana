@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { initialCustomVariableModelState } from 'app/features/variables/custom/reducer';
 import { hasOption, interpolateVariable } from './common';
 

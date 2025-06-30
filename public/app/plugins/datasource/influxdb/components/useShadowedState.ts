@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useState, useEffect } from 'react';
 import { usePrevious } from 'react-use';
 

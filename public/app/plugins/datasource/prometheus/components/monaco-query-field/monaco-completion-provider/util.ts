@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // this helper class is used to make typescript warn you when you forget
 // a case-block in a switch statement.
 // example code that triggers the typescript-error:

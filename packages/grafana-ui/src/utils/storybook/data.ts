@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { applyFieldOverrides, DataFrame, GrafanaTheme2 } from '@grafana/data';
 
 export function prepDataForStorybook(data: DataFrame[], theme: GrafanaTheme2) {

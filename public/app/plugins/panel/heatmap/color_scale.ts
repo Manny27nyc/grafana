@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as d3 from 'd3';
 import * as d3ScaleChromatic from 'd3-scale-chromatic';
 

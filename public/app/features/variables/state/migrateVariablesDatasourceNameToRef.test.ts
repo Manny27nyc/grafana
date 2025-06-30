@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { migrateVariablesDatasourceNameToRef } from './actions';
 import { adHocBuilder, queryBuilder } from '../shared/testing/builders';
 import { DataSourceRef } from '@grafana/data/src';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VizLegendOptions, OptionsWithTooltip } from '@grafana/schema';
 import { SingleStatBaseOptions } from '@grafana/ui';
 

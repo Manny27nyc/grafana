@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Action } from 'redux';
 import { AnyAction } from '@reduxjs/toolkit';
 import { cloneDeep } from 'lodash';

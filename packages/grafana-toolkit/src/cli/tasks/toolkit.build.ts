@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import execa = require('execa');
 import * as fs from 'fs';
 import chalk from 'chalk';

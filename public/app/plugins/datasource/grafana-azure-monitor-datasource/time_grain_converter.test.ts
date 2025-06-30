@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import TimeGrainConverter from './time_grain_converter';
 
 describe('TimeGrainConverter', () => {

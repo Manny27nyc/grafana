@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceRef, getDefaultTimeRange, LoadingState } from '@grafana/data';
 
 import { variableAdapters } from '../adapters';

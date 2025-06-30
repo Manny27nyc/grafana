@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { escapeStringForRegex, stringToJsRegex, stringToMs, unEscapeStringFromRegex } from './string';
 
 describe('stringToJsRegex', () => {

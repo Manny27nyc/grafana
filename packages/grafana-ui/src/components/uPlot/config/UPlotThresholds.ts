@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaTheme2, ThresholdsConfig, ThresholdsMode } from '@grafana/data';
 import { GraphThresholdsStyleConfig, GraphTresholdsStyleMode } from '@grafana/schema';
 import { getGradientRange, scaleGradient } from './gradientFills';

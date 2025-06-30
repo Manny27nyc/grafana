@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector, DataFrame, FieldType } from '@grafana/data';
 import { ScalarDimensionMode } from '.';
 import { getScalarDimension } from './scalar';

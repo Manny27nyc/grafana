@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import ora from 'ora';
 
 export const useSpinner = async (label: string, fn: () => Promise<any>, killProcess = true) => {

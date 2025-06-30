@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getValueMappingResult, isNumeric } from './valueMappings';
 import { ValueMapping, MappingType, SpecialValueMatch } from '../types';
 

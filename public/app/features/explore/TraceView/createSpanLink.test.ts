@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceInstanceSettings, MutableDataFrame } from '@grafana/data';
 import { setDataSourceSrv, setTemplateSrv } from '@grafana/runtime';
 import { createSpanLinkFactory } from './createSpanLink';

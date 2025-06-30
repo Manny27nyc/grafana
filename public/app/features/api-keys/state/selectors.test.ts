@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿import { getApiKeys, getApiKeysCount, getIncludeExpired, getIncludeExpiredDisabled } from './selectors';
 import { getMultipleMockKeys } from '../__mocks__/apiKeysMock';
 import { ApiKeysState } from 'app/types';

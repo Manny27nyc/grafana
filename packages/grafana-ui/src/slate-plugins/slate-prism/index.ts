@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Prism, { LanguageMap } from 'prismjs';
 import { Block, Text, Decoration } from 'slate';
 import { Plugin } from '@grafana/slate-react';

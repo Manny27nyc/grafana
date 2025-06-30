@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { mapFuncDefsToSelectables, mapFuncInstanceToParams } from './helpers';
 import { FuncDef, FuncDefs, FuncInstance } from '../gfunc';
 import { EditableParam } from './FunctionParamEditor';

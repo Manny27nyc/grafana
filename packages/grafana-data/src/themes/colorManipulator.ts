@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Code based on Material-UI
 // https://github.com/mui-org/material-ui/blob/1b096070faf102281f8e3c4f9b2bf50acf91f412/packages/material-ui/src/styles/colorManipulator.js#L97
 // MIT License Copyright (c) 2014 Call-Em-All

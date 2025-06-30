@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿import { getBackendSrv } from 'app/core/services/backend_srv';
 import { ApiKey, ThunkResult } from 'app/types';
 import { apiKeysLoaded, includeExpiredToggled, isFetching, setSearchQuery } from './reducers';

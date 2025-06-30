@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TimeRange } from 'app/plugins/datasource/alertmanager/types';
 
 export type MuteTimingFields = {

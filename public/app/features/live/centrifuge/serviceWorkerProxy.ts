@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CentrifugeSrv, CentrifugeSrvDeps } from './service';
 import { RemoteCentrifugeService } from './service.worker';
 import './transferHandlers';

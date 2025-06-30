@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceRef } from '@grafana/data';
 import { AdHocVariableFilter, AdHocVariableModel } from 'app/features/variables/types';
 import { VariableBuilder } from './variableBuilder';

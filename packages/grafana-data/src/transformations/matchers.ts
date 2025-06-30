@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Load the Builtin matchers
 import { getFieldPredicateMatchers, getFramePredicateMatchers } from './matchers/predicates';
 import { getFieldNameMatchers, getFrameNameMatchers } from './matchers/nameMatcher';

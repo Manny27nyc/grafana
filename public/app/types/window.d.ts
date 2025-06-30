@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export declare global {
   interface Window {
     __grafana_app_bundle_loaded: boolean;

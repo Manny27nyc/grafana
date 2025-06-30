@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { config, GrafanaBootConfig } from '@grafana/runtime';
 import { PluginState } from '@grafana/data';
 // Legacy binding paths

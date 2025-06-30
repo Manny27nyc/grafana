@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Diff, getDiffOperationText, getDiffText, jsonDiff } from './utils';
 
 describe('getDiffOperationText', () => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as api from '../../../../features/manage-dashboards/state/actions';
 import { getFolderAsOption, getFoldersAsOptions } from './api';
 import { DashboardSearchHit } from '../../../../features/search/types';

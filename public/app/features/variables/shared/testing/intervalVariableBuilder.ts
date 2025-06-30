@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { OptionsVariableBuilder } from './optionsVariableBuilder';
 import { IntervalVariableModel, VariableRefresh } from 'app/features/variables/types';
 

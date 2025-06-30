@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function monkeyPatchInjectorWithPreAssignedBindings(injector: any) {
   injector.oldInvoke = injector.invoke;
   injector.invoke = (fn: any, self: any, locals: any, serviceName: any) => {

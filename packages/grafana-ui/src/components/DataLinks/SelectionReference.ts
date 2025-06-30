@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VirtualElement } from '@popperjs/core/lib/types';
 
 export class SelectionReference implements VirtualElement {

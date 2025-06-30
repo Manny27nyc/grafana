@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayDataFrame } from './ArrayDataFrame';
 import { toDataFrameDTO } from './processDataFrame';
 import { FieldType, DataFrame } from '../types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Libraries
 import { AnyAction, createAction } from '@reduxjs/toolkit';
 import { RefreshPicker } from '@grafana/ui';

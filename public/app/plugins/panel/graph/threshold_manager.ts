@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import 'vendor/flot/jquery.flot';
 import $ from 'jquery';
 import { isNumber } from 'lodash';

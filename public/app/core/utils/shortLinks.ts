@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import memoizeOne from 'memoize-one';
 import { getBackendSrv, config } from '@grafana/runtime';
 import { copyStringToClipboard } from './explore';

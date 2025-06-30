@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // https://github.com/facebook/react/issues/5465
 
 export interface CancelablePromise<T> {

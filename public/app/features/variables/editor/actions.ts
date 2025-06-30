@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ThunkResult } from '../../../types';
 import { getEditorVariables, getNewVariableIndex, getVariable, getVariables } from '../state/selectors';
 import {

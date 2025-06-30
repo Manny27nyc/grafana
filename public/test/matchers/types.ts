@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable } from 'rxjs';
 
 export const OBSERVABLE_TEST_TIMEOUT_IN_MS = 1000;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isDateTime, RawTimeRange, TimeRange } from '@grafana/data';
 
 export const toRawTimeRange = (range: TimeRange): RawTimeRange => {

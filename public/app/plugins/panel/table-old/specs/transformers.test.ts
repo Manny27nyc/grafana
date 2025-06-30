@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { tableDataFormatFilterer, timeSeriesFormatFilterer, transformDataToTable, transformers } from '../transformers';
 
 describe('when transforming time series table', () => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { InternalTimeZones } from '@grafana/data';
 import { gte, lt } from 'semver';
 import {

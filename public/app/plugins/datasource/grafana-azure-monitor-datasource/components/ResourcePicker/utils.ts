@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import produce from 'immer';
 import { ResourceRow, ResourceRowGroup } from './types';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import config from 'app/core/config';
 import * as grafanaData from '@grafana/data';
 import { getPanelPluginLoadError } from '../panel/components/PanelPluginError';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { migrateStringQueriesToObjectQueries } from './grafanaTemplateVariableFns';
 import { AzureMonitorQuery, AzureQueryType } from './types';
 import createMockDatasource from './__mocks__/datasource';

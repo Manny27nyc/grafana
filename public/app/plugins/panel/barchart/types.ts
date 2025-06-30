@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, Field } from '@grafana/data';
 
 export interface BarChartDisplayValues {

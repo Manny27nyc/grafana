@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import './jquery_extended';
 import './services/search_srv';
 import { colors, JsonExplorer } from '@grafana/ui/';

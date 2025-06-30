@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dispatch } from 'app/store/store';
 import gfunc from '../gfunc';
 import { TemplateSrvStub } from 'test/specs/helpers';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RegistryItem, Registry } from './Registry';
 
 export enum BinaryOperationID {

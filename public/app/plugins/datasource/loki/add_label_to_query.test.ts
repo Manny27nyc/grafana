@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { addLabelToQuery, addLabelToSelector } from './add_label_to_query';
 
 describe('addLabelToQuery()', () => {

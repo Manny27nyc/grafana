@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export interface ChangePasswordFields {
   oldPassword: string;
   newPassword: string;

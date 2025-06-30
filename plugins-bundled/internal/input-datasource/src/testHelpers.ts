@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQueryRequest, DataQuery, CoreApp, dateTime } from '@grafana/data';
 
 export function getQueryOptions<TQuery extends DataQuery>(

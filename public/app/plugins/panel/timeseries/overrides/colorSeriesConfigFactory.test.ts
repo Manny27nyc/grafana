@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldColorModeId, FieldConfigSource, FieldMatcherID } from '@grafana/data';
 import { changeSeriesColorConfigFactory } from './colorSeriesConfigFactory';
 

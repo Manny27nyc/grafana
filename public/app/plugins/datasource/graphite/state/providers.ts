@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GraphiteQueryEditorState } from './store';
 import { eachRight, map, remove } from 'lodash';
 import {

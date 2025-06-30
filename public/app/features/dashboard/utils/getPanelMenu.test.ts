@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelMenuItem } from '@grafana/data';
 import { DashboardModel, PanelModel } from '../state';
 import { getPanelMenu } from './getPanelMenu';

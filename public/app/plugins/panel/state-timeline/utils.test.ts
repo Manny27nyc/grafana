@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector, createTheme, FieldType, ThresholdsMode, toDataFrame } from '@grafana/data';
 import { LegendDisplayMode } from '@grafana/schema';
 import { findNextStateIndex, getThresholdItems, prepareTimelineFields, prepareTimelineLegendItems } from './utils';

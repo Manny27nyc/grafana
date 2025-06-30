@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Plain from 'slate-plain-serializer';
 
 import LanguageProvider, { LokiHistoryItem } from './language_provider';

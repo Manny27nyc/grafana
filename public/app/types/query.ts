@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery, DataSourceRef } from '@grafana/data';
 import { ExpressionQuery } from '../features/expressions/types';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Set of handlers for secure password field in Angular components. They handle backward compatibility with
  * passwords stored in plain text fields.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import config from '../../core/config';
 
 // addAccessControlQueryParam appends ?accesscontrol=true to a url when accesscontrol is enabled

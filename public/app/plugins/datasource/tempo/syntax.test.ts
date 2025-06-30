@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { tokenizer } from './syntax';
 import Prism from 'prismjs';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isNumber } from 'lodash';
 import { DashboardModel } from '../../state/DashboardModel';
 import { getBackendSrv } from '@grafana/runtime';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { feedToDataFrame } from './utils';
 import { RssFeed, NewsItem } from './types';
 import { DataFrameView } from '@grafana/data';

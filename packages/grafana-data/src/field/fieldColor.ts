@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FALLBACK_COLOR, Field, FieldColorModeId, Threshold } from '../types';
 import { RegistryItem } from '../utils';
 import { Registry } from '../utils/Registry';

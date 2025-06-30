@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ThemeChangedEvent } from '@grafana/runtime';
 import appEvents from '../app_events';
 import { config } from '../config';

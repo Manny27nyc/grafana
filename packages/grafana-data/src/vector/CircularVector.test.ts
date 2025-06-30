@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CircularVector } from './CircularVector';
 
 describe('Check Circular Vector', () => {

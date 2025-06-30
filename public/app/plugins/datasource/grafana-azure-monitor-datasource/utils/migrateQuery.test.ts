@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AzureMonitorQuery, AzureQueryType } from '../types';
 import migrateQuery from './migrateQuery';
 

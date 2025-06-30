@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { sortedUniq } from 'lodash';
 import { lastValueFrom } from 'rxjs';
 import Prism, { Grammar } from 'prismjs';

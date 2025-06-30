@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Labels } from '@grafana/data';
 
 /** replace labels in a string.  Used for loki+prometheus legend formats */

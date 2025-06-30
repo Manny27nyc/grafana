@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceJsonData, PluginMeta } from '@grafana/data';
 import { alertRuleToQueries } from './query';
 import { GRAFANA_RULES_SOURCE_NAME } from './datasource';

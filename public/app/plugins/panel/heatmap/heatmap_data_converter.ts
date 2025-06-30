@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { concat, forEach, isEmpty, isEqual, isNumber, sortBy } from 'lodash';
 import { TimeSeries } from 'app/core/core';
 import { Bucket, HeatmapCard, HeatmapCardStats, YBucket, XBucket } from './types';

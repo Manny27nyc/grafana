@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ReducerID } from '@grafana/data';
 import { ClassicCondition, ExpressionQuery, ExpressionQueryType } from '../types';
 import { EvalFunction } from '../../alerting/state/alertDef';

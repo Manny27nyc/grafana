@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { config } from '../config';
 
 export const featureEnabled = (feature: string): boolean => {

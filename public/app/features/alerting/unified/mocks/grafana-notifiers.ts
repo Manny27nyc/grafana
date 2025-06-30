@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NotifierDTO } from 'app/types';
 
 export const grafanaNotifiersMock: NotifierDTO[] = [

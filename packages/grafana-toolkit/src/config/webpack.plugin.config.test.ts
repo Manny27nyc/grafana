@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { findModuleFiles, loadWebpackConfig } from './webpack.plugin.config';
 import fs from 'fs';
 // eslint-disable-next-line no-duplicate-imports

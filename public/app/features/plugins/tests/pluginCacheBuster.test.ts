@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { invalidatePluginInCache, locateWithCache, registerPluginInCache } from '../pluginCacheBuster';
 import * as pluginSettings from '../pluginSettings';
 

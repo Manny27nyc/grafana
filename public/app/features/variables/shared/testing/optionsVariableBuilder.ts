@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { VariableOption, VariableWithOptions } from 'app/features/variables/types';
 import { VariableBuilder } from './variableBuilder';
 

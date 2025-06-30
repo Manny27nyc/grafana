@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { hiddenReducerTypes, ThresholdMapper } from './ThresholdMapper';
 import alertDef from './alertDef';
 

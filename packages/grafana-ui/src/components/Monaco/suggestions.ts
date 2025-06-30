@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type * as monacoType from 'monaco-editor/esm/vs/editor/editor.api';
 
 import { CodeEditorSuggestionItem, CodeEditorSuggestionItemKind, CodeEditorSuggestionProvider, Monaco } from './types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldDisplay } from '@grafana/data';
 
 export function filterDisplayItems(item: FieldDisplay) {

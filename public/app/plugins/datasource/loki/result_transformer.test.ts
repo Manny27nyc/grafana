@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CircularDataFrame, FieldCache, FieldType, MutableDataFrame } from '@grafana/data';
 import {
   LokiStreamResult,

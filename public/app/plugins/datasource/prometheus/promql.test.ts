@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import promql from './promql';
 import Prism from 'prismjs';
 

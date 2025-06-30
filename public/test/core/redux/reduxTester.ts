@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Dispatch, Middleware, MiddlewareAPI } from 'redux';
 import thunk, { ThunkMiddleware } from 'redux-thunk';
 import {

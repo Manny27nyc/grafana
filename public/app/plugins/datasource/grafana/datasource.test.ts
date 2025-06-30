@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationQueryRequest, DataSourceInstanceSettings, dateTime } from '@grafana/data';
 
 import { backendSrv } from 'app/core/services/backend_srv'; // will use the version in __mocks__

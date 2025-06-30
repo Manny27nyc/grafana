@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { reduce } from 'lodash';
 import kbn from 'app/core/utils/kbn';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationsSrv } from './annotations_srv';
 
 describe('AnnotationsSrv', () => {

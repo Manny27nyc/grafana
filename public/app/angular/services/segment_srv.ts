@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { each, isString, map } from 'lodash';
 import coreModule from '../core_module';
 

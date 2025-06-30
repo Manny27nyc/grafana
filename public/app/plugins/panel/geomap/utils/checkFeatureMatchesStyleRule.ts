@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FeatureLike } from 'ol/Feature';
 import { FeatureRuleConfig, ComparisonOperation } from '../types';
 

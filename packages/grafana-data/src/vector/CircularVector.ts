@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MutableVector } from '../types/vector';
 import { vectorToArray } from './vectorToArray';
 import { FunctionalVector } from './FunctionalVector';

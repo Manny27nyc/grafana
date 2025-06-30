@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //DOCS: https://prometheus.io/docs/alerting/latest/configuration/
 
 import { DataSourceJsonData } from '@grafana/data';

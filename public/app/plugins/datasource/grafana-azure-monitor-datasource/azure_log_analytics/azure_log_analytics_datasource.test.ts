@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import AzureMonitorDatasource from '../datasource';
 import AzureLogAnalyticsDatasource from './azure_log_analytics_datasource';
 import FakeSchemaData from './__mocks__/schema';

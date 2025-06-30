@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getBackendSrv } from '@grafana/runtime';
 import { PluginError, PluginMeta, renderMarkdown } from '@grafana/data';
 import { API_ROOT, GCOM_API_ROOT } from './constants';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StoreState } from 'app/types';
 import { useSelector } from 'react-redux';
 import { UnifiedAlertingState } from '../state/reducers';

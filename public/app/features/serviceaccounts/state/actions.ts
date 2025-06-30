@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ThunkResult } from '../../../types';
 import { getBackendSrv } from '@grafana/runtime';
 import { OrgServiceAccount as OrgServiceAccount } from 'app/types';

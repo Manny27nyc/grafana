@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PostgresDatasource } from './datasource';
 import { PostgresQueryCtrl } from './query_ctrl';
 import { PostgresConfigCtrl } from './config_ctrl';

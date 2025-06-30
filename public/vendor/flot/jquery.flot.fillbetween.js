@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* Flot plugin for computing bottoms for filled line and bar charts.
 
 Copyright (c) 2007-2013 IOLA and Ole Laursen.

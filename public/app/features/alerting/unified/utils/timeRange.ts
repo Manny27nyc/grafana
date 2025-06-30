@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { RelativeTimeRange } from '@grafana/data';
 import { AlertQuery } from 'app/types/unified-alerting-dto';
 import { ExpressionQuery, ExpressionQueryType } from '../../../expressions/types';

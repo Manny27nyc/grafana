@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ﻿import { ApiKeysState } from 'app/types';
 
 export const getApiKeysCount = (state: ApiKeysState) =>

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StatementPosition, SuggestionKind } from './types';
 
 export function getSuggestionKinds(statementPosition: StatementPosition): SuggestionKind[] {

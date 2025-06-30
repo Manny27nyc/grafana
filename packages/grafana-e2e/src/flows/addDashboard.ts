@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DeleteDashboardConfig } from './deleteDashboard';
 import { e2e } from '../index';
 import { getDashboardUid } from '../support/url';

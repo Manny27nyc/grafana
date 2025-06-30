@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Value, Editor as CoreEditor } from 'slate';
 import { SearchFunctionType } from '../utils';
 

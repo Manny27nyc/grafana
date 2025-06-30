@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, DataLink, DataQueryRequest, DataQueryResponse, ScopedVars, TimeRange } from '@grafana/data';
 import { CloudWatchLogsQuery, CloudWatchQuery } from '../types';
 import { AwsUrl, encodeUrl } from '../aws_url';

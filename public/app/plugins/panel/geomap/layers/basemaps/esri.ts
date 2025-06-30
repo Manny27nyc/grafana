@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MapLayerRegistryItem, MapLayerOptions, GrafanaTheme2, RegistryItem, Registry } from '@grafana/data';
 import Map from 'ol/Map';
 import { xyzTiles, defaultXYZConfig, XYZConfig } from './generic';

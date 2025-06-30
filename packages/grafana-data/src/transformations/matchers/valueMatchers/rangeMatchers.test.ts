@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toDataFrame } from '../../../dataframe';
 import { DataFrame } from '../../../types/dataFrame';
 import { getValueMatcher } from '../../matchers';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { thunkTester } from '../../../../../../test/core/thunk/thunkTester';
 import { closeEditor, initialState, PanelEditorState } from './reducers';
 import { exitPanelEditor, initPanelEditor, skipPanelUpdate } from './actions';

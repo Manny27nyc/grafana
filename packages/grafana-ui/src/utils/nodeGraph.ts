@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * @deprecated use it from @grafana/data. Kept here for backward compatibility.
  */

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { scaledUnits, ValueFormatter } from './valueFormats';
 import { DecimalCount } from '../types/displayValue';
 

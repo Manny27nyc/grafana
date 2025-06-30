@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Used to enable rendering of Angular components within a
  * React component without losing proper typings.

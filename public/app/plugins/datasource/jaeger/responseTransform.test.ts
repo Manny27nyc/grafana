@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createTraceFrame, transformToJaeger } from './responseTransform';
 import { testResponse, testResponseDataFrameFields } from './testResponse';
 import { MutableDataFrame } from '@grafana/data';

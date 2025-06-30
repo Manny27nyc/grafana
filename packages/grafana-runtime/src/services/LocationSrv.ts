@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * Passed as options to the {@link LocationSrv} to describe how the automatically navigation
  * should be performed.

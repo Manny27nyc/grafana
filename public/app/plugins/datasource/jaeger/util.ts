@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import logfmt from 'logfmt';
 
 export function convertTagsLogfmt(tags: string | undefined) {

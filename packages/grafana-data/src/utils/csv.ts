@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Libraries
 import Papa, { ParseConfig, Parser, ParseResult } from 'papaparse';
 import { defaults } from 'lodash';

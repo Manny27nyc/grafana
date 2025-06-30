@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { adjustOperatorIfNeeded, getCondition, getOperator } from './tagUtils';
 
 describe('InfluxDB InfluxQL Editor tag utils', () => {

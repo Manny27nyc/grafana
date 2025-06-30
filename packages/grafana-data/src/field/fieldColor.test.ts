@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createTheme } from '../themes';
 import { Field, FieldColorModeId, FieldType } from '../types';
 import { ArrayVector } from '../vector/ArrayVector';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { concatMap, filter } from 'rxjs/operators';
 
 import { FetchQueue, FetchStatus } from './FetchQueue';

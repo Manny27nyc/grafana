@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getCategories } from './categories';
 import { DecimalCount } from '../types/displayValue';
 import { toDateTimeValueFormatter } from './dateTimeFormatters';

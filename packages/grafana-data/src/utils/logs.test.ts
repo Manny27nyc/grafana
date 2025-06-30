@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LogLevel, LogsModel, LogRowModel, LogsSortOrder } from '../types/logs';
 import { MutableDataFrame } from '../dataframe/MutableDataFrame';
 import {

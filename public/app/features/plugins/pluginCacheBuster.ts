@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { clearPluginSettingsCache } from './pluginSettings';
 
 const cache: Record<string, string> = {};

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CentrifugeService, CentrifugeSrvDeps } from './service';
 import * as comlink from 'comlink';
 import './transferHandlers';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationEvent } from '@grafana/data';
 import { getBackendSrv } from '@grafana/runtime';
 import { AnnotationTagsResponse } from './types';

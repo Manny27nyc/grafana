@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { e2e } from '../index';
 import { DeleteDashboardConfig } from '../flows/deleteDashboard';
 import { DeleteDataSourceConfig } from '../flows/deleteDataSource';

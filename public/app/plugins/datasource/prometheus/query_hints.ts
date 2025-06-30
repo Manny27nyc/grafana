@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { size } from 'lodash';
 import { QueryHint, QueryFix } from '@grafana/data';
 import { PrometheusDatasource } from './datasource';

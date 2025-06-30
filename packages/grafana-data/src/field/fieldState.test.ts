@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, TIME_SERIES_VALUE_FIELD_NAME, FieldType } from '../types';
 import { getFieldDisplayName, getFrameDisplayName } from './fieldState';
 import { toDataFrame } from '../dataframe';

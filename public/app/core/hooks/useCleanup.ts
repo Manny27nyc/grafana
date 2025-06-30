@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useRef } from 'react';
 import { useDispatch } from 'react-redux';
 import { cleanUpAction, StateSelector } from '../actions/cleanUp';

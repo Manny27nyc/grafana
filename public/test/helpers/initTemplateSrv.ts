@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TimeRange } from '@grafana/data';
 import { convertToStoreState } from './convertToStoreState';
 import { TemplateSrv } from '../../app/features/templating/template_srv';

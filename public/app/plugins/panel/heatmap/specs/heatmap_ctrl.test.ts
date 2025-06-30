@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { HeatmapCtrl } from '../heatmap_ctrl';
 import { dateTime } from '@grafana/data';
 import { TimeSrv } from 'app/features/dashboard/services/TimeSrv';

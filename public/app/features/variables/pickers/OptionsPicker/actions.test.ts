@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { reduxTester } from '../../../../../test/core/redux/reduxTester';
 import { getRootReducer, RootReducerType } from '../../state/helpers';
 import { initialVariableModelState, QueryVariableModel, VariableRefresh, VariableSort } from '../../types';

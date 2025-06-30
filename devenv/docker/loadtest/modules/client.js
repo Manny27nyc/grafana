@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import http from 'k6/http';
 import encoding from 'k6/encoding';
 

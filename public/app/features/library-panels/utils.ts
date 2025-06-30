@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LibraryElementDTO, PanelModelLibraryPanel } from './types';
 import { PanelModel } from '../dashboard/state';
 import { addLibraryPanel, updateLibraryPanel } from './state/api';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { EchoBackend, EchoEventType } from '@grafana/runtime';
 import { SentryConfig } from '@grafana/data/src/types/config';
 import { BrowserOptions, init as initSentry, setUser as sentrySetUser } from '@sentry/browser';

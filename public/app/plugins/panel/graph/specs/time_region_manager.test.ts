@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { TimeRegionManager, colorModes } from '../time_region_manager';
 import { dateTime } from '@grafana/data';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import 'whatwg-fetch'; // fetch polyfill needed backendSrv
 import { of } from 'rxjs';
 import { DataSourceInstanceSettings, toUtc } from '@grafana/data';

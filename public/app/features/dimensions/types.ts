@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Field } from '@grafana/data';
 
 export interface BaseDimensionConfig<T = any> {

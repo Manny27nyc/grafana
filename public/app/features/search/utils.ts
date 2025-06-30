@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { parse, SearchParserResult } from 'search-query-parser';
 import { IconName } from '@grafana/ui';
 import { UrlQueryMap } from '@grafana/data';

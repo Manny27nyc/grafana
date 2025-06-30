@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { preparePlotFrame } from './utils';
 import { preparePlotConfigBuilder } from '../TimeSeries/utils';
 import {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StateHistoryItem } from 'app/types/unified-alerting';
 import { useEffect } from 'react';
 import { useDispatch } from 'react-redux';

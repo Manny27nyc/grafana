@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame } from '../../types/dataFrame';
 import { FrameMatcherID } from './ids';
 import { FrameMatcherInfo } from '../../types/transformations';

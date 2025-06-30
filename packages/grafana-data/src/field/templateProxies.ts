@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, Field } from '../types';
 import { getFieldDisplayName } from './fieldState';
 import { formatLabels } from '../utils/labels';

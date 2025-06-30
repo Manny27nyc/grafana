@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { lastValueFrom, Observable, of } from 'rxjs';
 import { DataQuery, DataQueryResponse, DataSourceApi, DataSourceInstanceSettings } from '@grafana/data';
 import { BackendSrvRequest, getBackendSrv } from '@grafana/runtime';

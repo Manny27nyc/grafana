@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CloneOptions, DashboardModel } from 'app/features/dashboard/state/DashboardModel';
 
 export interface SaveDashboardOptions extends CloneOptions {

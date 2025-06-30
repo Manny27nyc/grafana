@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 jest.mock('app/core/core', () => ({}));
 jest.mock('app/core/config', () => {
   return {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import config from '../../core/config';
 import { extend } from 'lodash';
 import { rangeUtil, WithAccessControlMetadata } from '@grafana/data';

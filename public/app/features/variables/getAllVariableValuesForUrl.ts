@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ScopedVars, UrlQueryMap } from '@grafana/data';
 import { getTemplateSrv } from '@grafana/runtime';
 import { variableAdapters } from './adapters';

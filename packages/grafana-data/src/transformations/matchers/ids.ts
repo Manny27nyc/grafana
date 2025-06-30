@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This needs to be in its own file to avoid circular references
 
 // Builtin Predicates

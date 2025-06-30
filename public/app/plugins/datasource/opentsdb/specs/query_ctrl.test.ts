@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { OpenTsQueryCtrl } from '../query_ctrl';
 
 describe('OpenTsQueryCtrl', () => {

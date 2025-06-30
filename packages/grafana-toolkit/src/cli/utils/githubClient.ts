@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import axios, { AxiosInstance, AxiosRequestConfig } from 'axios';
 
 const grafanaURL = (owner: string, repo: string) => `https://api.github.com/repos/${owner}/${repo}`;

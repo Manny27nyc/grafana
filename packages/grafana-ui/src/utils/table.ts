@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Field, LinkModel } from '@grafana/data';
 import { MouseEventHandler } from 'react';
 import { Row } from 'react-table';

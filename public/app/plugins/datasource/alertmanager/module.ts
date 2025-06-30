@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourcePlugin } from '@grafana/data';
 import { ConfigEditor } from './ConfigEditor';
 import { AlertManagerDatasource } from './DataSource';

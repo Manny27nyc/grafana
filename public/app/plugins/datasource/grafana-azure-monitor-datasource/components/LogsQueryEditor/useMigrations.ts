@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useState } from 'react';
 import { AzureMonitorQuery } from '../../types';
 import Datasource from '../../datasource';

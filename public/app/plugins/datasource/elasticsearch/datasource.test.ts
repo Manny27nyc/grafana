@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { map } from 'lodash';
 import { Observable, of, throwError } from 'rxjs';
 import {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import CDP from 'chrome-remote-interface';
 import Tracelib, { TraceEvent } from 'tracelib';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Value } from 'slate';
 import { TypeaheadOutput } from '@grafana/ui';
 import { CloudWatchDatasource } from './datasource';

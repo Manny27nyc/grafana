@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FieldConfigSource, MappingType, PanelModel, ValueMap } from '@grafana/data';
 import { TimelineFieldConfig, TimelineOptions } from './types';
 import { isArray } from 'lodash';

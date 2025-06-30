@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { serializeStateToUrlParam } from '@grafana/data/src/utils/url';
 import { exploreReducer, navigateToExplore, splitCloseAction } from './main';
 import { thunkTester } from 'test/core/thunk/thunkTester';

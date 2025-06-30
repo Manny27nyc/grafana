@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { compareArrayValues, compareDataFrameStructures, PanelData } from '@grafana/data';
 
 export const setStructureRevision = (result: PanelData, lastResult: PanelData | undefined) => {

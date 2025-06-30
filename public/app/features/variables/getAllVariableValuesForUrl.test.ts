@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { setTemplateSrv } from '@grafana/runtime';
 import { variableAdapters } from './adapters';
 import { createQueryVariableAdapter } from './query/adapter';

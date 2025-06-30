@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createTheme, GrafanaTheme } from '@grafana/data';
 
 let themeMock: ((name?: string) => GrafanaTheme) | null;

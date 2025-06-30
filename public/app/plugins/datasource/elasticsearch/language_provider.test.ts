@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import LanguageProvider from './language_provider';
 import { ElasticDatasource } from './datasource';
 import { AbstractLabelOperator, AbstractQuery, DataSourceInstanceSettings } from '@grafana/data';

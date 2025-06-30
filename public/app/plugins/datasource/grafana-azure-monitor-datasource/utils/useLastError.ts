@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useState, useCallback, useMemo } from 'react';
 import { AzureMonitorErrorish } from '../types';
 import messageFromError from './messageFromError';

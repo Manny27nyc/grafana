@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { RuntimeGlobals, RuntimeModule } = require('webpack');
 
 class CorsWorkerPublicPathRuntimeModule extends RuntimeModule {

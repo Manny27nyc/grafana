@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { map, sortBy, flattenDeep, chunk, zip } from 'lodash';
 import tinycolor from 'tinycolor2';
 

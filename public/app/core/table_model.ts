@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { findIndex } from 'lodash';
 import { Column, TableData, QueryResultMeta } from '@grafana/data';
 

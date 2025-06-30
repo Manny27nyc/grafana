@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import store from 'app/core/store';
 
 export function saveSectionOpenState(id: string, isOpen: boolean) {

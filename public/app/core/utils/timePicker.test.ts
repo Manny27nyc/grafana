@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toUtc, AbsoluteTimeRange } from '@grafana/data';
 
 import { getShiftedTimeRange, getZoomedTimeRange } from './timePicker';

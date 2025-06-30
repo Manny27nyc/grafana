@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { locationService } from '@grafana/runtime';
 import { useLocation } from 'react-router-dom';
 

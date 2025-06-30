@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CollectedData, DataCollector } from './DataCollector';
 import { CDPDataCollector } from './CDPDataCollector';
 import { fromPairs } from 'lodash';

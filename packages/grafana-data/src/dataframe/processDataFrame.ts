@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Libraries
 import { isArray, isBoolean, isNumber, isString } from 'lodash';
 

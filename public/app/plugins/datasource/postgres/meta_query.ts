@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import QueryModel from './postgres_query_model';
 
 export class PostgresMetaQuery {

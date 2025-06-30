@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { KeyboardEvent, useReducer } from 'react';
 import { getLocationSrv } from '@grafana/runtime';
 import { DashboardQuery, DashboardSearchItemType, DashboardSection } from '../types';

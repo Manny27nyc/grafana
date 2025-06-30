@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Team, TeamGroup, TeamMember, TeamPermissionLevel } from 'app/types';
 
 export const getMultipleMockTeams = (numberOfTeams: number): Team[] => {

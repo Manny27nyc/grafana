@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelModel, FieldConfigSource, DataQuery } from '@grafana/data';
 import { graphPanelMigrationHandler } from './GraphMigrations';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import produce from 'immer';
 import { FieldConfigSource } from '@grafana/data';
 import { GraphDrawStyle, GraphFieldConfig, StackingMode } from '@grafana/schema';

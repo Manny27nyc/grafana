@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { reducerTester } from '../../../test/core/redux/reducerTester';
 import { navIndexReducer, updateNavIndex, updateConfigurationSubtitle } from './navModel';
 import { NavIndex } from '@grafana/data';

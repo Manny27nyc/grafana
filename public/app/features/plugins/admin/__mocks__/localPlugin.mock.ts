@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LocalPlugin } from '../types';
 
 // Copied from /api/plugins

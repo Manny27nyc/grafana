@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { selectors } from '@grafana/e2e-selectors';
 import { GraphCtrl } from './module';
 

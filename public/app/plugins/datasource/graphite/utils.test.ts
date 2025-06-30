@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { reduceError } from './utils';
 
 const SAMPLE_500_PAGE = `<body style="background-color: #666666; color: black;">

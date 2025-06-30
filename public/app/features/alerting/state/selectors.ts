@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AlertRule, AlertRulesState, NotificationChannelState, StoreState } from 'app/types';
 
 export const getSearchQuery = (state: AlertRulesState) => state.searchQuery;

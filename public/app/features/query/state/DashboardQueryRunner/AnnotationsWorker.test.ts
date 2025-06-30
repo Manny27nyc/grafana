@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Subject, throwError } from 'rxjs';
 import { setDataSourceSrv } from '@grafana/runtime';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { setBackendSrv } from '@grafana/runtime';
 import { thunkTester } from 'test/core/thunk/thunkTester';
 import { importDashboard } from './actions';

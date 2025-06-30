@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaTheme2 } from '@grafana/data';
 import { css } from '@emotion/css';
 import { DEFAULT_ANNOTATION_COLOR } from '@grafana/ui';

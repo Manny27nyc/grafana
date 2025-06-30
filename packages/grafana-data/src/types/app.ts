@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentClass } from 'react';
 import { KeyValue } from './data';
 import { NavModel } from './navModel';

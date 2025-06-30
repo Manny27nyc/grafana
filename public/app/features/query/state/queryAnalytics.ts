@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getDashboardSrv } from '../../dashboard/services/DashboardSrv';
 import { PanelData, LoadingState, DataSourceApi, CoreApp, urlUtil } from '@grafana/data';
 import { reportMetaAnalytics, MetaAnalyticsEventName, DataRequestEventPayload } from '@grafana/runtime';

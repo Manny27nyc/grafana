@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { plugin as PrometheusDatasourcePlugin } from './module';
 import { ANNOTATION_QUERY_STEP_DEFAULT } from './datasource';
 

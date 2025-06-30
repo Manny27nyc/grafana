@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable max-len */
 
 import { GrafanaTheme2 } from '@grafana/data';

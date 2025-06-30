@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { asyncScheduler, Observable, of, scheduled } from 'rxjs';
 import { DashboardQueryRunnerOptions } from './types';
 import { AnnotationEvent, getDefaultTimeRange } from '@grafana/data';

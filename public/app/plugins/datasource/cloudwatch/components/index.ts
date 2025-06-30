@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export { Dimensions } from './MetricStatEditor/Dimensions';
 export { QueryInlineField, QueryField } from './Forms';
 export { Alias } from './Alias';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaThemeType } from '@grafana/data';
 import { selectThemeVariant } from './selectThemeVariant';
 import { mockTheme } from './index';

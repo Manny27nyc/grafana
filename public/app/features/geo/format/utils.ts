@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector, Field, FieldConfig, FieldType } from '@grafana/data';
 import { Geometry, Point } from 'ol/geom';
 import { fromLonLat } from 'ol/proj';

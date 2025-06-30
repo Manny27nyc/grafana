@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { isPipelineAgg, isPipelineAggWithMultipleBucketPaths } from '../query_def';
 
 describe('ElasticQueryDef', () => {

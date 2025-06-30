@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { variableAdapters } from '../adapters';
 import { customBuilder } from '../shared/testing/builders';
 import { DashboardState, StoreState } from '../../../types';

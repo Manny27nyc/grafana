@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { reduceTransformer } from './transformers/reduce';
 import { concatenateTransformer } from './transformers/concat';
 import { calculateFieldTransformer } from './transformers/calculateField';

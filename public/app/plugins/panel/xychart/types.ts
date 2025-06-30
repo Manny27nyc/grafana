@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataFrame, Field, FieldColorMode } from '@grafana/data';
 import { LineStyle, VisibilityMode } from '@grafana/schema';
 import { VizLegendItem } from '@grafana/ui';

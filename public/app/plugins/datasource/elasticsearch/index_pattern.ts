@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toUtc, dateTime, DateTime, DurationUnit } from '@grafana/data';
 import { Interval } from './types';
 

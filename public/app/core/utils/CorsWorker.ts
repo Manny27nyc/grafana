@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // works with webpack plugin: scripts/webpack/plugins/CorsWorkerPlugin.js
 export class CorsWorker extends window.Worker {
   constructor(url: URL, options?: WorkerOptions) {

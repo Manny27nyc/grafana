@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Threshold, FALLBACK_COLOR, Field, ThresholdsMode } from '../types';
 
 export const fallBackTreshold: Threshold = { value: 0, color: FALLBACK_COLOR };

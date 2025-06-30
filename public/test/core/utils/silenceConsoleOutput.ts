@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export const silenceConsoleOutput = () => {
   beforeEach(() => {
     jest.spyOn(console, 'log').mockImplementation(jest.fn());

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export default function messageFromError(error: any): string | undefined {
   if (!error || typeof error !== 'object') {
     return undefined;

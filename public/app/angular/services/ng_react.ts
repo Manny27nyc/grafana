@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 //
 // This is using ng-react with this PR applied https://github.com/ngReact/ngReact/pull/199
 //

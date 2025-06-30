@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { FormEvent, useCallback, useReducer } from 'react';
 import { debounce } from 'lodash';
 import { SelectableValue } from '@grafana/data';

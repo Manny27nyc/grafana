@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { makeClassES5Compatible } from '@grafana/data';
 import { loadPluginCss } from '@grafana/runtime';
 import { PanelCtrl as PanelCtrlES6 } from 'app/angular/panel/panel_ctrl';

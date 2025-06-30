@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import moment from 'moment'; // eslint-disable-line no-restricted-imports
 // eslint-disable-next-line lodash/import-scope
 import _, { isFunction } from 'lodash';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getPluginSettings, clearPluginSettingsCache } from './pluginSettings';
 import { getBackendSrv } from '@grafana/runtime';
 

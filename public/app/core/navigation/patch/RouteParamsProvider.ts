@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // This is empty for now, as I think it's not going to be necessary.
 // This replaces Angular RouteParamsProvider implementation with a dummy one to keep the ball rolling
 

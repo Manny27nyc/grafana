@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { mockTransformationsRegistry } from '../../utils/tests/mockTransformationsRegistry';
 import { DataTransformerConfig, FieldType, MatcherConfig } from '../../types';
 import { ArrayVector } from '../../vector';

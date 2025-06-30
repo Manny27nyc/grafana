@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSlice, Draft, PayloadAction } from '@reduxjs/toolkit';
 import { DataSourceInstanceSettings, LoadingState } from '@grafana/data';
 import { LibraryElementDTO } from '../../library-panels/types';

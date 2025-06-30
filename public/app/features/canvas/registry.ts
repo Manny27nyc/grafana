@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Registry } from '@grafana/data';
 import { CanvasElementItem, CanvasElementOptions } from './element';
 import { buttonItem } from './elements/button';

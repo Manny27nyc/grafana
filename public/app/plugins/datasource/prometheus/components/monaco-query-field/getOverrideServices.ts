@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { monacoTypes } from '@grafana/ui';
 
 // this thing here is a workaround in a way.

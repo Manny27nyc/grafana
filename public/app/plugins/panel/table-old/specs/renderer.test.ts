@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { each } from 'lodash';
 import TableModel from 'app/core/table_model';
 import { TableRenderer } from '../renderer';

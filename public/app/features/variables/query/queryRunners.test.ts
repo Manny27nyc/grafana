@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { QueryRunners, variableDummyRefId } from './queryRunners';
 import { getDefaultTimeRange, VariableSupportType } from '@grafana/data';
 import { VariableRefresh } from '../types';

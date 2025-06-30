@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQueryError, DataQueryRequest, DataQueryTimings } from './datasource';
 import { PluginMeta } from './plugin';
 import { ScopedVars } from './ScopedVars';

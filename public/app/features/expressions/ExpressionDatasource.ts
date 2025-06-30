@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataSourceInstanceSettings, DataSourcePluginMeta, PluginType } from '@grafana/data';
 import { ExpressionQuery, ExpressionQueryType } from './types';
 import { ExpressionQueryEditor } from './ExpressionQueryEditor';

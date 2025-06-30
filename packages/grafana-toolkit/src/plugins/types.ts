@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PluginMeta, KeyValue } from '@grafana/data';
 
 export interface PluginPackageDetails {

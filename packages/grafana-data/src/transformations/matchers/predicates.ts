@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Field, DataFrame, FieldType } from '../../types/dataFrame';
 import { MatcherID } from './ids';
 import { getFieldMatcher, fieldMatchers, getFrameMatchers, frameMatchers } from '../matchers';

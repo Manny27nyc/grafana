@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useEffect } from 'react';
 import { useDebounce } from 'react-use';
 import { SearchSrv } from 'app/core/services/search_srv';

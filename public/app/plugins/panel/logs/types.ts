@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { LogsSortOrder, LogsDedupStrategy } from '@grafana/data';
 
 export interface Options {

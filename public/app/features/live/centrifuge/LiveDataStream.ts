@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import type { LiveDataStreamOptions, StreamingFrameOptions } from '@grafana/runtime/src/services/live';
 import { toDataQueryError } from '@grafana/runtime/src/utils/toDataQueryError';
 import {

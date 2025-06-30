@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { reducerTester } from 'test/core/redux/reducerTester';
 import { ElasticsearchQuery } from '../../types';
 import { aliasPatternReducer, changeAliasPattern, changeQuery, initQuery, queryReducer } from './state';

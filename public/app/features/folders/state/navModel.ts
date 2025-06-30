@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NavModel, NavModelItem } from '@grafana/data';
 
 import { FolderDTO } from 'app/types';

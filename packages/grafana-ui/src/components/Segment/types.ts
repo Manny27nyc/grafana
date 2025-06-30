@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ReactElement } from 'react';
 
 export interface SegmentProps<T> {

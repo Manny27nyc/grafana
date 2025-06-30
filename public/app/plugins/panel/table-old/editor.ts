@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { find, map, without } from 'lodash';
 import { transformers } from './transformers';
 import { ColumnStyle } from './types';

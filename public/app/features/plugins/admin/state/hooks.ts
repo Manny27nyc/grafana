@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { PluginError } from '@grafana/data';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { capitalize, groupBy, isEmpty } from 'lodash';
 import { v5 as uuidv5 } from 'uuid';
 import { of } from 'rxjs';

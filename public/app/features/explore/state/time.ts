@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnyAction, createAction, PayloadAction } from '@reduxjs/toolkit';
 import {
   AbsoluteTimeRange,

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { GrafanaConfig, RawTimeRange, ScopedVars } from '../types';
 import { UrlQueryMap, urlUtil } from './url';
 import { textUtil } from '../text';

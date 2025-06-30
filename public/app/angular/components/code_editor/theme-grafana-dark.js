@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 ace.define(
   'ace/theme/grafana-dark',
   ['require', 'exports', 'module', 'ace/lib/dom'],

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ArrayVector, createTheme } from '@grafana/data';
 import { makeEdgesDataFrame, makeNodesDataFrame, processNodes } from './utils';
 

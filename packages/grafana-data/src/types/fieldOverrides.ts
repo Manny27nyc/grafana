@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ComponentType } from 'react';
 import { MatcherConfig, FieldConfig, Field, DataFrame, TimeZone } from '../types';
 import { InterpolateFunction } from './panel';

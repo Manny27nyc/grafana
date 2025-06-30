@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createAction, createAsyncThunk, Update } from '@reduxjs/toolkit';
 import { getBackendSrv } from '@grafana/runtime';
 import { PanelPlugin } from '@grafana/data';

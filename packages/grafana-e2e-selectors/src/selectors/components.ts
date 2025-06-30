@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // NOTE: by default Component string selectors are set up to be aria-labels,
 // however there are many cases where your component may not need an aria-label
 // (a <button> with clear text, for example, does not need an aria-label as it's already labeled)

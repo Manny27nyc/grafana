@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { matcherHint, printExpected, printReceived } from 'jest-matcher-utils';
 import { OBSERVABLE_TEST_TIMEOUT_IN_MS } from './types';
 import { asapScheduler, Subscription, timer, isObservable } from 'rxjs';

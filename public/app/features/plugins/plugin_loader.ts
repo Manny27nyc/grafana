@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // eslint-disable-next-line lodash/import-scope
 import _ from 'lodash';
 import * as sdk from 'app/plugins/sdk';

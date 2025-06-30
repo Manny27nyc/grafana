@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 module.exports = {
   extends: ['stylelint-config-sass-guidelines', 'stylelint-config-prettier'],
   ignoreFiles: ['**/node_modules/**/*.scss'],

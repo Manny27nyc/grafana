@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnyAction, createAction } from '@reduxjs/toolkit';
 import { NavIndex, NavModel, NavModelItem } from '@grafana/data';
 

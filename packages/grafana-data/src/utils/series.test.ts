@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getSeriesTimeStep, hasMsResolution } from './series';
 import { Field, FieldType } from '../types';
 import { ArrayVector } from '../vector';

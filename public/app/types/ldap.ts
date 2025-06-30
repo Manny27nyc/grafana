@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 interface LdapMapping {
   cfgAttrValue: string;
   ldapValue: string;

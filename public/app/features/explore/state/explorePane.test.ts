@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { DataQuery, DefaultTimeZone, EventBusExtended, serializeStateToUrlParam, toUtc } from '@grafana/data';
 import { ExploreId, StoreState, ThunkDispatch } from 'app/types';
 import { refreshExplore } from './explorePane';

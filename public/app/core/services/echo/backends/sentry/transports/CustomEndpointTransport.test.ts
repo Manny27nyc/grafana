@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Event, Severity } from '@sentry/browser';
 import { Status } from '@sentry/types';
 import { CustomEndpointTransport } from './CustomEndpointTransport';

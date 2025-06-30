@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { convertValuesToHistogram, getSeriesValues } from '../histogram';
 
 describe('Graph Histogam Converter', () => {

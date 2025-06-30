@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useMemo } from 'react';
 import { DataFrame, Field, getFieldDisplayName, SelectableValue } from '@grafana/data';
 import { getFieldTypeIcon } from '../../types';

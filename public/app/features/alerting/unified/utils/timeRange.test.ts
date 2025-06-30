@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ReducerID } from '@grafana/data';
 import { getTimeRangeForExpression } from './timeRange';
 import { defaultCondition } from 'app/features/expressions/utils/expressionTypes';

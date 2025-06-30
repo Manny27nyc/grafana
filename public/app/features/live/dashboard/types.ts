@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export enum DashboardEventAction {
   Saved = 'saved',
   EditingStarted = 'editing-started', // Sent when someone (who can save!) opens the editor

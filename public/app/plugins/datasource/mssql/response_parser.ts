@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationEvent, DataFrame, MetricFindValue } from '@grafana/data';
 import { BackendDataSourceResponse, toDataQueryResponse, FetchResponse } from '@grafana/runtime';
 

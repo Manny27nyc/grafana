@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ServiceAccountsState } from 'app/types';
 
 export const getServiceAccounts = (state: ServiceAccountsState) => {

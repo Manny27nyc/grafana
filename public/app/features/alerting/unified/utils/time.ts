@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { describeInterval } from '@grafana/data/src/datetime/rangeutil';
 import { TimeOptions } from '../types/time';
 

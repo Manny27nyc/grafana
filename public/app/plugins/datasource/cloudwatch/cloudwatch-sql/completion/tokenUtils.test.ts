@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { monacoTypes } from '@grafana/ui';
 import { LinkedToken } from './LinkedToken';
 import MonacoMock from '../../__mocks__/cloudwatch-sql/Monaco';

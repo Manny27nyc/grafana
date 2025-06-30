@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { cloneDeep, each, map } from 'lodash';
 import { describe, beforeEach, it, expect } from '../../../../../test/lib/common';
 import TimeSeries from 'app/core/time_series2';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export function withFocusedPanel(fn: (panelId: number) => void) {
   return () => {
     const elements = document.querySelectorAll(':hover');

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // We need to centralize the zIndex definitions as they work
 // like global values in the browser.
 export const zIndex = {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { find } from 'lodash';
 import { colors } from '@grafana/ui';
 import {

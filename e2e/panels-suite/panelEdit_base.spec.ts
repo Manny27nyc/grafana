@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { e2e } from '@grafana/e2e';
 
 const PANEL_UNDER_TEST = 'Lines 500 data points';

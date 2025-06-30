@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useCallback, useState, useEffect } from 'react';
 import { DataFrame } from '@grafana/data';
 import { DetailState } from '@jaegertracing/jaeger-ui-components';

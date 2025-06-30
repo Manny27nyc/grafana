@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationEvent, PanelData, TimeRange } from '@grafana/data';
 import { DashboardModel, PanelModel } from '../dashboard/state';
 

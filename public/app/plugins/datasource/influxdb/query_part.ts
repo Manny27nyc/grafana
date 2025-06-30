@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { map, clone } from 'lodash';
 import { QueryPartDef, QueryPart, functionRenderer, suffixRenderer } from 'app/angular/components/query_part';
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { toFixed, FormattedValue } from './valueFormats';
 import { DecimalCount } from '../types/displayValue';
 

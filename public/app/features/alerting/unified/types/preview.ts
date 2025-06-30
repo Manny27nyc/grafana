@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelData } from '@grafana/data';
 import { AlertQuery } from 'app/types/unified-alerting-dto';
 import { RuleFormType } from './rule-form';

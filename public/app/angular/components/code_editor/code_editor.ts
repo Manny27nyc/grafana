@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * codeEditor directive based on Ace code editor
  * https://github.com/ajaxorg/ace

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { EdgeDatum, EdgeDatumLayout, NodeDatum } from './types';
 import { Field } from '@grafana/data';

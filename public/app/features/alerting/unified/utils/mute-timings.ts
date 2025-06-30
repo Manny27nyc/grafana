@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MuteTimeInterval, TimeInterval } from 'app/plugins/datasource/alertmanager/types';
 import { omitBy, isUndefined } from 'lodash';
 import { MuteTimingFields, MuteTimingIntervalFields } from '../types/mute-timing-form';

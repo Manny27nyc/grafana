@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { PanelModel } from 'app/features/dashboard/state';
 import { thunkTester } from '../../../../test/core/thunk/thunkTester';
 import { changePanelPlugin } from './actions';

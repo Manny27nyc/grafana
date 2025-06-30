@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { dateMath, dateTimeParse, isDateTime, TimeZone } from '@grafana/data';
 
 export function isValid(value: string, roundUp?: boolean, timeZone?: TimeZone): boolean {

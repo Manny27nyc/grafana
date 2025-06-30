@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SingleStatBaseOptions, BarGaugeDisplayMode } from '@grafana/ui';
 import { SelectableValue } from '@grafana/data';
 

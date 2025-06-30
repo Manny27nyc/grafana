@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createAction } from '@reduxjs/toolkit';
 import { BucketAggregation, BucketAggregationType, BucketAggregationWithField } from '../aggregations';
 

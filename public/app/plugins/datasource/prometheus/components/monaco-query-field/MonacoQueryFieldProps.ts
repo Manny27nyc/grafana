@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { HistoryItem } from '@grafana/data';
 import { PromQuery } from '../../types';
 import type PromQlLanguageProvider from '../../language_provider';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { mockTransformationsRegistry } from '../../utils/tests/mockTransformationsRegistry';
 import { LabelsToFieldsMode, LabelsToFieldsOptions, labelsToFieldsTransformer } from './labelsToFields';
 import { DataFrame, DataTransformerConfig, FieldDTO, FieldType } from '../../types';

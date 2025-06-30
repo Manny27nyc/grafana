@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { useQueryParams } from 'app/core/hooks/useQueryParams';
 import store from 'app/core/store';
 import { useCallback } from 'react';

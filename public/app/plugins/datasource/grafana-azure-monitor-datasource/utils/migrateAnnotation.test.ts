@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AnnotationQuery } from '@grafana/data';
 import { AzureMonitorQuery, AzureQueryType } from '../types';
 import migrateAnnotation from './migrateAnnotation';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { AppEvents } from '@grafana/data';
 import { getBackendSrv, locationService } from '@grafana/runtime';
 import { appEvents } from 'app/core/core';

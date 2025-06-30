@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as d3 from 'd3';
 import $ from 'jquery';
 import { filter, find, isNumber, map, reduce } from 'lodash';

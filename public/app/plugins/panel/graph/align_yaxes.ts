@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * To align two Y axes by Y level
  * @param yAxes data [{min: min_y1, min: max_y1}, {min: min_y2, max: max_y2}]

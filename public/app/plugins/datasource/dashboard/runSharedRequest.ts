@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Observable } from 'rxjs';
 import { QueryRunnerOptions } from 'app/features/query/state/PanelQueryRunner';
 import { DashboardQuery, SHARED_DASHBOARD_QUERY } from './types';

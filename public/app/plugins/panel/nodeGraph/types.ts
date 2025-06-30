@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { SimulationNodeDatum, SimulationLinkDatum } from 'd3-force';
 import { Field } from '@grafana/data';
 

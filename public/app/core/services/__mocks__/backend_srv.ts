@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import 'whatwg-fetch'; // fetch polyfill needed for Headers
 
 import { BackendSrvRequest, FetchResponse } from '@grafana/runtime';

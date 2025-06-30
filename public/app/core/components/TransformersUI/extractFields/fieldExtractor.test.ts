@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fieldExtractors, FieldExtractorID } from './fieldExtractors';
 
 describe('Extract fields from text', () => {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { variableAdapters } from '../adapters';
 import { DashboardModel, PanelModel } from '../../dashboard/state';
 import { isAdHoc } from '../guard';

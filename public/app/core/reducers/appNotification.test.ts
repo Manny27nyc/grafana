@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { appNotificationsReducer, clearAppNotification, notifyApp } from './appNotification';
 import { AppNotificationSeverity, AppNotificationTimeout } from 'app/types/';
 

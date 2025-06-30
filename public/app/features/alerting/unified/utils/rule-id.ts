@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { CombinedRule, Rule, RuleIdentifier, RuleWithLocation } from 'app/types/unified-alerting';
 import { Annotations, Labels, RulerRuleDTO } from 'app/types/unified-alerting-dto';
 import { GRAFANA_RULES_SOURCE_NAME } from './datasource';

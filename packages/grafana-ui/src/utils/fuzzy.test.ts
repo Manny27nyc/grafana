@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fuzzyMatch } from './fuzzy';
 
 describe('Fuzzy search', () => {

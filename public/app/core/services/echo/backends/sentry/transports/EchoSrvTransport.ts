@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getEchoSrv, EchoEventType } from '@grafana/runtime';
 import { BaseTransport } from '@sentry/browser/dist/transports';
 import { Event } from '@sentry/browser';

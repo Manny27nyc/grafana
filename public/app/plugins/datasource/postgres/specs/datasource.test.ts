@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { of } from 'rxjs';
 import { TestScheduler } from 'rxjs/testing';
 import { FetchResponse } from '@grafana/runtime';
